@@ -50,7 +50,8 @@
           "[Java](#java)",
           "[C#](#c-1)",
           "[CSS](#css)",
-          "[HTML](#html)"
+          "[HTML](#html)",
+          "[C](undefined)"
         ]
       },
       {
@@ -1102,6 +1103,183 @@
               "[@scriptex](https://github.com/scriptex)/[**animated**](https://github.com/scriptex/animated)",
               "css and jquery animations on scroll",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "81",
+              "[@gfto](https://github.com/gfto)/[**toybox**](https://github.com/gfto/toybox)",
+              "The goal of the Toybox project is to create simple implementations of all the important Linux command line utilities. This repo is mirror of the official git hosted @ https://github.com/landley/toybox It is synced with toybox repo every 6 hours. The development is done on the mailing list: <toybox@lists.landley.net>. Post patches there.",
+              "[:arrow_upper_right:](http://landley.net/toybox/)"
+            ],
+            [
+              "71",
+              "[@gfto](https://github.com/gfto)/[**oscam**](https://github.com/gfto/oscam)",
+              "OSCam is an Open Source Conditional Access Module software. This repo is mirror of oscam SVN and my development area. The repo is synced with Oscam SVN every six hours.",
+              "[:arrow_upper_right:]( http://www.streamboard.tv/oscam/)"
+            ],
+            [
+              "51",
+              "[@Irdroid](https://github.com/Irdroid)/[**Irdroid**](https://github.com/Irdroid/Irdroid)",
+              "Universal infra-red remote control for Android",
+              "[:arrow_upper_right:](http://www.irdroid.com)"
+            ],
+            [
+              "38",
+              "[@gfto](https://github.com/gfto)/[**tsdecrypt**](https://github.com/gfto/tsdecrypt)",
+              "tsdecrypt reads and decrypts CSA encrypted incoming mpeg transport stream over UDP/RTP using code words obtained from OSCAM or similar CAM server. tsdecrypt communicates with CAM server using cs378x (camd35 over tcp) protocol or newcamd protocol.",
+              "[:arrow_upper_right:](http://georgi.unixsol.org/programs/tsdecrypt/)"
+            ],
+            [
+              "29",
+              "[@gfto](https://github.com/gfto)/[**dvblast**](https://github.com/gfto/dvblast)",
+              "DVBlast is a simple and powerful MPEG-2/TS demux and streaming application. This repository is mirror of official repo at git://git.videolan.org/dvblast.git and my personal development tree.",
+              "[:arrow_upper_right:](http://www.videolan.org/projects/dvblast.html)"
+            ],
+            [
+              "17",
+              "[@gfto](https://github.com/gfto)/[**mptsd**](https://github.com/gfto/mptsd)",
+              "mptsd receives mpegts streams from udp/multicast or http and combines them into one multiple program stream that is suitable for outputing to DVB-C modulator. It is tested with Dektec DTE-3114 Quad QAM Modulator and it is used in production in couple of small DVB-C networks.",
+              "[:arrow_upper_right:](http://georgi.unixsol.org/programs/mptsd/)"
+            ],
+            [
+              "16",
+              "[@gfto](https://github.com/gfto)/[**bitstream**](https://github.com/gfto/bitstream)",
+              "biTStream is a set of C headers allowing a simpler access to binary structures such as specified by MPEG, DVB, IETF, etc. This repository is mirror of official repo at git://git.videolan.org/bitstream.git and my personal development tree.",
+              "[:arrow_upper_right:](http://git.videolan.org/?p=bitstream.git)"
+            ],
+            [
+              "13",
+              "[@infraredbg](https://github.com/infraredbg)/[**Lenovo_A820_kernel_k…**](https://github.com/infraredbg/Lenovo_A820_kernel_kk)",
+              "Proton kernel for KitKat",
+              ""
+            ],
+            [
+              "9",
+              "[@gfto](https://github.com/gfto)/[**tomcast**](https://github.com/gfto/tomcast)",
+              "tomcast reads mpeg transport streams over http or udp (multicast or unicast) and outputs them to chosen multicast group. Basically a simple http2multicast daemon designed to work 24/7.",
+              ""
+            ],
+            [
+              "8",
+              "[@stefansaraev](https://github.com/stefansaraev)/[**snmp-swraid**](https://github.com/stefansaraev/snmp-swraid)",
+              "snmp-swraid",
+              ""
+            ],
+            [
+              "8",
+              "[@koue](https://github.com/koue)/[**httpd**](https://github.com/koue/httpd)",
+              "FreeBSD port of OpenBSD httpd",
+              ""
+            ],
+            [
+              "7",
+              "[@gfto](https://github.com/gfto)/[**libtsfuncs**](https://github.com/gfto/libtsfuncs)",
+              "libtsfuncs is a library for mpeg PSI parsing and generation.",
+              "[:arrow_upper_right:](http://georgi.unixsol.org/programs/libtsfuncs/)"
+            ],
+            [
+              "5",
+              "[@stefansaraev](https://github.com/stefansaraev)/[**mproxy**](https://github.com/stefansaraev/mproxy)",
+              "mproxy",
+              ""
+            ],
+            [
+              "5",
+              "[@profglavcho](https://github.com/profglavcho)/[**mt6577-kernel-3.10.6…**](https://github.com/profglavcho/mt6577-kernel-3.10.65)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@gfto](https://github.com/gfto)/[**libfuncs**](https://github.com/gfto/libfuncs)",
+              "libfuncs is collection of code (list, queue, circular buffer, io, logging, etc.).",
+              "[:arrow_upper_right:](http://georgi.unixsol.org/programs/libfuncs/)"
+            ],
+            [
+              "5",
+              "[@gfto](https://github.com/gfto)/[**tsdumper2**](https://github.com/gfto/tsdumper2)",
+              "tsdumper2 reads incoming mpeg transport stream over UDP/RTP and then records it to disk. The files names are generated based on preconfigured time interval.",
+              "[:arrow_upper_right:](http://georgi.unixsol.org/programs/tsdumper2/)"
+            ],
+            [
+              "5",
+              "[@gfto](https://github.com/gfto)/[**videohubctrl**](https://github.com/gfto/videohubctrl)",
+              "videohubctrl can be used to control Blackmagic Design Videohub SDI router device over the network.",
+              ""
+            ],
+            [
+              "3",
+              "[@infraredbg](https://github.com/infraredbg)/[**Lenovo_A820_kernel_p…**](https://github.com/infraredbg/Lenovo_A820_kernel_proton_z)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@amidabuddha](https://github.com/amidabuddha)/[**saga-ics-crc-3.0.16**](https://github.com/amidabuddha/saga-ics-crc-3.0.16)",
+              "Kernel 3 for HTC Desire S",
+              ""
+            ],
+            [
+              "3",
+              "[@Irdroid](https://github.com/Irdroid)/[**Irdroid-WiFi**](https://github.com/Irdroid/Irdroid-WiFi)",
+              "Irdroid WiFi to Infrared adapter firmware source code",
+              ""
+            ],
+            [
+              "3",
+              "[@infraredbg](https://github.com/infraredbg)/[**Lenovo_A820_kernel_p…**](https://github.com/infraredbg/Lenovo_A820_kernel_proton)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@infraredbg](https://github.com/infraredbg)/[**android_device_lenov…**](https://github.com/infraredbg/android_device_lenovo_a820_old)",
+              "CM11 device tree for Lenovo A820",
+              ""
+            ],
+            [
+              "2",
+              "[@Irdroid](https://github.com/Irdroid)/[**Irdroid-WiRF433**](https://github.com/Irdroid/Irdroid-WiRF433)",
+              "Single Board Linux Computer, Designed by Hardwate Group Ltd.",
+              ""
+            ],
+            [
+              "2",
+              "[@Irdroid](https://github.com/Irdroid)/[**SerialWebProxy**](https://github.com/Irdroid/SerialWebProxy)",
+              "HTML5 WebSocket to Serial proxy | OpenWrt packages",
+              "[:arrow_upper_right:](http://www.hwgroup-bg.com/blog)"
+            ],
+            [
+              "2",
+              "[@koue](https://github.com/koue)/[**slowcgi**](https://github.com/koue/slowcgi)",
+              "FreeBSD port of OpenBSD slowcgi",
+              ""
+            ],
+            [
+              "2",
+              "[@profglavcho](https://github.com/profglavcho)/[**mt6735-kernel-3.10.6…**](https://github.com/profglavcho/mt6735-kernel-3.10.61)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@danielng01](https://github.com/danielng01)/[**iris-colors-lite**](https://github.com/danielng01/iris-colors-lite)",
+              "Iris colors lite is not Iris. This is open source project for blue light reduction and software brightness started from strach and different from the Iris core",
+              "[:arrow_upper_right:](http://iristech.co)"
             ]
           ]
         }
