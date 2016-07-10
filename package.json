@@ -58,7 +58,8 @@
           "[Go](#go)",
           "[Lua](#lua)",
           "[Matlab](#matlab)",
-          "[Objective-C](#objective-c)"
+          "[Objective-C](#objective-c)",
+          "[Perl](#perl)"
         ]
       },
       {
@@ -1667,6 +1668,99 @@
               "2",
               "[@tparkerpp](https://github.com/tparkerpp)/[**cleverGarry**](https://github.com/tparkerpp/cleverGarry)",
               "Prototype in Swift",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Perl #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "16",
+              "[@ddmitov](https://github.com/ddmitov)/[**perl-executing-brows…**](https://github.com/ddmitov/perl-executing-browser)",
+              "Minimalistic HTML framework for Perl 5 desktop applications",
+              ""
+            ],
+            [
+              "12",
+              "[@pshangov](https://github.com/pshangov)/[**miril**](https://github.com/pshangov/miril)",
+              "Miril - Static Content Publishing",
+              "[:arrow_upper_right:](http://www.miril.org)"
+            ],
+            [
+              "9",
+              "[@urandom](https://github.com/urandom)/[**p2js**](https://github.com/urandom/p2js)",
+              "IWL Perl To Javascript converter",
+              "[:arrow_upper_right:](http://code.google.com/p/iwl)"
+            ],
+            [
+              "9",
+              "[@urandom](https://github.com/urandom)/[**iwl**](https://github.com/urandom/iwl)",
+              "IWL - perl web widget library",
+              "[:arrow_upper_right:](http://code.google.com/p/iwl)"
+            ],
+            [
+              "6",
+              "[@pshangov](https://github.com/pshangov)/[**perldoc-vim**](https://github.com/pshangov/perldoc-vim)",
+              "Perldoc viewer for vim with syntax highlighting",
+              ""
+            ],
+            [
+              "3",
+              "[@harry-bix](https://github.com/harry-bix)/[**mojo-mysql5**](https://github.com/harry-bix/mojo-mysql5)",
+              "Pure-Perl non-blocking I/O MySQL Connector",
+              "[:arrow_upper_right:](https://metacpan.org/release/Mojo-MySQL5)"
+            ],
+            [
+              "3",
+              "[@pshangov](https://github.com/pshangov)/[**html-formfu-manual**](https://github.com/pshangov/html-formfu-manual)",
+              "HTML::FormFu Manual",
+              ""
+            ],
+            [
+              "3",
+              "[@pshangov](https://github.com/pshangov)/[**catalyst-model-formf…**](https://github.com/pshangov/catalyst-model-formfu)",
+              "Cached forms with Catalyst and HTML::FormFu",
+              ""
+            ],
+            [
+              "3",
+              "[@urandom](https://github.com/urandom)/[**darkness-e17**](https://github.com/urandom/darkness-e17)",
+              "Darkness theme for E17",
+              "[:arrow_upper_right:](http://saturn-vk.deviantart.com)"
+            ],
+            [
+              "3",
+              "[@pshangov](https://github.com/pshangov)/[**data-asobject**](https://github.com/pshangov/data-asobject)",
+              "Data::AsObject - Easy OO access to complex perl data structures",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Data-AsObject/)"
+            ],
+            [
+              "2",
+              "[@pshangov](https://github.com/pshangov)/[**moosex-params**](https://github.com/pshangov/moosex-params)",
+              "MooseX::Params - Advanced parameter validation for Moose",
+              ""
+            ],
+            [
+              "2",
+              "[@pau4o](https://github.com/pau4o)/[**easy-virtualbox-menu**](https://github.com/pau4o/easy-virtualbox-menu)",
+              "Simple tool to manage your VirtualBox machines.",
+              ""
+            ],
+            [
+              "2",
+              "[@korikori](https://github.com/korikori)/[**A-Scanner-Darkly**](https://github.com/korikori/A-Scanner-Darkly)",
+              "A simple and lightning-fast scanner for cpanel server stats written in bash, awk, and perl.",
               ""
             ]
           ]
