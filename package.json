@@ -46,7 +46,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -665,6 +666,279 @@
               "2",
               "[@gkostadinov](https://github.com/gkostadinov)/[**projectify.me**](https://github.com/gkostadinov/projectify.me)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "1174",
+              "[@geftimov](https://github.com/geftimov)/[**android-pathview**](https://github.com/geftimov/android-pathview)",
+              "Android view with both path from constructed path or from svg.",
+              ""
+            ],
+            [
+              "788",
+              "[@geftimov](https://github.com/geftimov)/[**android-player**](https://github.com/geftimov/android-player)",
+              "Android animation when entering new screen.",
+              ""
+            ],
+            [
+              "511",
+              "[@ogrebgr](https://github.com/ogrebgr)/[**android_volley_examp…**](https://github.com/ogrebgr/android_volley_examples)",
+              "Project with examples how to use the new Volley networking framework",
+              ""
+            ],
+            [
+              "369",
+              "[@geftimov](https://github.com/geftimov)/[**android-patternview**](https://github.com/geftimov/android-patternview)",
+              "Pattern view for android.That one using lock or unlock.",
+              ""
+            ],
+            [
+              "102",
+              "[@geftimov](https://github.com/geftimov)/[**android-viewpager-tr…**](https://github.com/geftimov/android-viewpager-transformers)",
+              "A collection of view pager transformers ",
+              ""
+            ],
+            [
+              "91",
+              "[@pveentjer](https://github.com/pveentjer)/[**Multiverse**](https://github.com/pveentjer/Multiverse)",
+              "Software Transactional Memory Implementation for the JVM",
+              "[:arrow_upper_right:](http://multiverse.codehaus.org)"
+            ],
+            [
+              "59",
+              "[@asual](https://github.com/asual)/[**lesscss-servlet**](https://github.com/asual/lesscss-servlet)",
+              "LESS Servlet - Runtime handling and optimization of less.js resources",
+              "[:arrow_upper_right:](http://www.asual.com/lesscss)"
+            ],
+            [
+              "55",
+              "[@dumbledore](https://github.com/dumbledore)/[**AlbiteREADER**](https://github.com/dumbledore/AlbiteREADER)",
+              "A feature-rich e-book reader for the Java Mobile platform. Currently works with txt, xhtml and epub files.   Supported features include touch scrolling, images, styling and multilingual hyphenation, on-touch   dictionaries, units converter, table of contents. Uses the Droid Serif font through it's own font   implementation scheme.",
+              "[:arrow_upper_right:](http://albite.org/reader)"
+            ],
+            [
+              "48",
+              "[@asual](https://github.com/asual)/[**summer**](https://github.com/asual/summer)",
+              "Summer - The HTML5 Library for Java and Scala",
+              "[:arrow_upper_right:](http://www.asual.com/summer)"
+            ],
+            [
+              "43",
+              "[@geftimov](https://github.com/geftimov)/[**android-draggable-vi…**](https://github.com/geftimov/android-draggable-viewpager)",
+              "[Deprecated] Android view pager with drag an drop between pages",
+              ""
+            ],
+            [
+              "32",
+              "[@geftimov](https://github.com/geftimov)/[**hadoop-map-reduce-pa…**](https://github.com/geftimov/hadoop-map-reduce-patterns)",
+              "Hadoop Map-Reduce Design Patterns",
+              ""
+            ],
+            [
+              "20",
+              "[@albogdano](https://github.com/albogdano)/[**elasticsearch-river-…**](https://github.com/albogdano/elasticsearch-river-amazonsqs)",
+              "Amazon SQS river plugin for ElasticSearch",
+              ""
+            ],
+            [
+              "18",
+              "[@pveentjer](https://github.com/pveentjer)/[**Hazelblast**](https://github.com/pveentjer/Hazelblast)",
+              "",
+              ""
+            ],
+            [
+              "13",
+              "[@groupsky](https://github.com/groupsky)/[**generator-android**](https://github.com/groupsky/generator-android)",
+              "Yeoman based android scaffolding",
+              ""
+            ],
+            [
+              "12",
+              "[@groupsky](https://github.com/groupsky)/[**nexus4-call-fixer**](https://github.com/groupsky/nexus4-call-fixer)",
+              "A fix to no audo problem with nexus 4 and cyanogenmod 11",
+              ""
+            ],
+            [
+              "7",
+              "[@pveentjer](https://github.com/pveentjer)/[**hazelcast-actors**](https://github.com/pveentjer/hazelcast-actors)",
+              "hazelcast-actors",
+              ""
+            ],
+            [
+              "7",
+              "[@martin-g](https://github.com/martin-g)/[**wicket-gae-demo**](https://github.com/martin-g/wicket-gae-demo)",
+              "Wicket 1.5 running on Google AppEngine",
+              ""
+            ],
+            [
+              "7",
+              "[@martin-g](https://github.com/martin-g)/[**wicket-atmosphere-te…**](https://github.com/martin-g/wicket-atmosphere-tests)",
+              "An experiments with https://github.com/jfarcand/atmosphere",
+              ""
+            ],
+            [
+              "7",
+              "[@dumbledore](https://github.com/dumbledore)/[**Planetarium**](https://github.com/dumbledore/Planetarium)",
+              "A simple simulation of the Solar system using Java's *Graphics2D*",
+              ""
+            ],
+            [
+              "7",
+              "[@geftimov](https://github.com/geftimov)/[**android-email**](https://github.com/geftimov/android-email)",
+              "[Deprecated] Android library for sending emails.",
+              ""
+            ],
+            [
+              "6",
+              "[@ianp](https://github.com/ianp)/[**rvsnoop**](https://github.com/ianp/rvsnoop)",
+              "TIBCO Rendezvous monitoring tool.",
+              "[:arrow_upper_right:](http://rvsnoop.org/)"
+            ],
+            [
+              "6",
+              "[@dumbledore](https://github.com/dumbledore)/[**FlypadJoystick**](https://github.com/dumbledore/FlypadJoystick)",
+              "A simple Java interface to PPJoy.",
+              ""
+            ],
+            [
+              "6",
+              "[@wastedabuser](https://github.com/wastedabuser)/[**samsung-iap**](https://github.com/wastedabuser/samsung-iap)",
+              "Adobe AIR native extension for Samsung's in-app purchases API 2.0",
+              ""
+            ],
+            [
+              "6",
+              "[@geftimov](https://github.com/geftimov)/[**android-birthday-vie…**](https://github.com/geftimov/android-birthday-view)",
+              "[Deprecated] Android view that enables you to set birthday",
+              ""
+            ],
+            [
+              "5",
+              "[@geftimov](https://github.com/geftimov)/[**android-progress-tex…**](https://github.com/geftimov/android-progress-textview)",
+              "Set progress in a textview",
+              ""
+            ],
+            [
+              "5",
+              "[@kaloyan-raev](https://github.com/kaloyan-raev)/[**chitanka4kindle**](https://github.com/kaloyan-raev/chitanka4kindle)",
+              "Читанка за Kindle",
+              ""
+            ],
+            [
+              "5",
+              "[@martin-g](https://github.com/martin-g)/[**wicket-cassandra-dat…**](https://github.com/martin-g/wicket-cassandra-datastore)",
+              "An implementation of org.apache.wicket.pageStore.IDataStore (Apache Wicket 1.5.x) that stores pages in a cassandra cluster.",
+              ""
+            ],
+            [
+              "5",
+              "[@TodorBalabanov](https://github.com/TodorBalabanov)/[**TwentyEightForAndroi…**](https://github.com/TodorBalabanov/TwentyEightForAndroid)",
+              "Twenty-eight(28) card game, which is very popular in parts of South Asia. The original project can be found at: http://sourceforge.net/projects/rosanne/",
+              ""
+            ],
+            [
+              "3",
+              "[@wastedabuser](https://github.com/wastedabuser)/[**OpenIAB-air**](https://github.com/wastedabuser/OpenIAB-air)",
+              "Adobe AIR native extension for the OpenIAB project",
+              ""
+            ],
+            [
+              "3",
+              "[@geftimov](https://github.com/geftimov)/[**android-components**](https://github.com/geftimov/android-components)",
+              "All components (views, utils, etc.)",
+              ""
+            ],
+            [
+              "3",
+              "[@geftimov](https://github.com/geftimov)/[**java-algorithms**](https://github.com/geftimov/java-algorithms)",
+              "Welcome to Algorithms",
+              "[:arrow_upper_right:](http://geftimov.github.io/Algorithms/)"
+            ],
+            [
+              "3",
+              "[@ogrebgr](https://github.com/ogrebgr)/[**dagger2_migration_mi…**](https://github.com/ogrebgr/dagger2_migration_missing_module_inject)",
+              "How to migrate missing inject from module with complete = false from Dagger 1 to Dagger 2",
+              ""
+            ],
+            [
+              "3",
+              "[@dumbledore](https://github.com/dumbledore)/[**AlbiteDictionaryBuil…**](https://github.com/dumbledore/AlbiteDictionaryBuilder)",
+              "The official tool for building dictionaries for the AlbiteREADER.",
+              ""
+            ],
+            [
+              "3",
+              "[@TodorBalabanov](https://github.com/TodorBalabanov)/[**booming-games-simple…**](https://github.com/TodorBalabanov/booming-games-simple-task)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@Gpetkov](https://github.com/Gpetkov)/[**UserAgentRepository**](https://github.com/Gpetkov/UserAgentRepository)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@dumbledore](https://github.com/dumbledore)/[**AlbiteUnits**](https://github.com/dumbledore/AlbiteUnits)",
+              "A simple java API for converting various physical units. Suitable for J2ME devices, too, but then add the source java files to the j2me package, as the class files are build with jdk 1.6",
+              ""
+            ],
+            [
+              "2",
+              "[@martin-g](https://github.com/martin-g)/[**single-page-instance**](https://github.com/martin-g/single-page-instance)",
+              "A demo app that uses a single page instance per page type - http://markmail.org/message/ofyvgybcjp5c…",
+              ""
+            ],
+            [
+              "2",
+              "[@dumbledore](https://github.com/dumbledore)/[**AlbiteCharacterDecod…**](https://github.com/dumbledore/AlbiteCharacterDecoder)",
+              "AlbiteStreamReader provides the ability to read characters from encodings, not supported natively supported by Java's InputStreamReader. It works in J2ME, too.",
+              ""
+            ],
+            [
+              "2",
+              "[@kaloyan-raev](https://github.com/kaloyan-raev)/[**eclipse-license-mana…**](https://github.com/kaloyan-raev/eclipse-license-management-tools)",
+              "License Management Tools for Eclipse (Prototype)",
+              ""
+            ],
+            [
+              "2",
+              "[@alexstanoev](https://github.com/alexstanoev)/[**IceAuth**](https://github.com/alexstanoev/IceAuth)",
+              "Lightweight authorization plugin for Bukkit",
+              "[:arrow_upper_right:](http://icecraft.7bg.eu)"
+            ],
+            [
+              "2",
+              "[@groupsky](https://github.com/groupsky)/[**Contacto**](https://github.com/groupsky/Contacto)",
+              "Address book application",
+              ""
+            ],
+            [
+              "2",
+              "[@pveentjer](https://github.com/pveentjer)/[**brooklyn-hazelcast-a…**](https://github.com/pveentjer/brooklyn-hazelcast-actors)",
+              "Actors framework on top of Hazelcast 3.x",
+              ""
+            ],
+            [
+              "2",
+              "[@dumbledore](https://github.com/dumbledore)/[**AlbiteZIP**](https://github.com/dumbledore/AlbiteZIP)",
+              "Implementation of java.util.zip in Java Mobile using FileConnection through the AlbiteRandomReadingFile API and the sources from GNU's Classpath",
               ""
             ]
           ]
