@@ -64,7 +64,8 @@
           "[Python](#python)",
           "[Ruby](#ruby)",
           "[Scala](#scala)",
-          "[Shell](#shell)"
+          "[Shell](#shell)",
+          "[VimL](#viml)"
         ]
       },
       {
@@ -2369,6 +2370,141 @@
               "2",
               "[@boianmihailov](https://github.com/boianmihailov)/[**iptables-persistent**](https://github.com/boianmihailov/iptables-persistent)",
               "init.d script for debin/ubuntu to keep persistent iptables rules",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "VimL #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "479",
+              "[@AndrewRadev](https://github.com/AndrewRadev)/[**splitjoin.vim**](https://github.com/AndrewRadev/splitjoin.vim)",
+              "A vim plugin that simplifies the transition between multiline and single-line code",
+              "[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3613)"
+            ],
+            [
+              "127",
+              "[@AndrewRadev](https://github.com/AndrewRadev)/[**linediff.vim**](https://github.com/AndrewRadev/linediff.vim)",
+              "A vim plugin to perform diffs on blocks of code",
+              "[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3745)"
+            ],
+            [
+              "119",
+              "[@AndrewRadev](https://github.com/AndrewRadev)/[**sideways.vim**](https://github.com/AndrewRadev/sideways.vim)",
+              "A Vim plugin to move function arguments (and other delimited-by-something items) left and right.",
+              "[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4171)"
+            ],
+            [
+              "39",
+              "[@AndrewRadev](https://github.com/AndrewRadev)/[**inline_edit.vim**](https://github.com/AndrewRadev/inline_edit.vim)",
+              "Edit code that's embedded within other code",
+              "[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3829)"
+            ],
+            [
+              "38",
+              "[@AndrewRadev](https://github.com/AndrewRadev)/[**Vimfiles**](https://github.com/AndrewRadev/Vimfiles)",
+              "My .vim folder",
+              ""
+            ],
+            [
+              "27",
+              "[@AndrewRadev](https://github.com/AndrewRadev)/[**gapply.vim**](https://github.com/AndrewRadev/gapply.vim)",
+              "Before committing, edit a git diff and apply it directly to the index",
+              ""
+            ],
+            [
+              "26",
+              "[@AndrewRadev](https://github.com/AndrewRadev)/[**writable_search.vim**](https://github.com/AndrewRadev/writable_search.vim)",
+              "Grep for something, then write the original files directly through the search results.",
+              "[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4865)"
+            ],
+            [
+              "21",
+              "[@AndrewRadev](https://github.com/AndrewRadev)/[**ember_tools.vim**](https://github.com/AndrewRadev/ember_tools.vim)",
+              "Tools for working with ember projects",
+              "[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=5399)"
+            ],
+            [
+              "20",
+              "[@AndrewRadev](https://github.com/AndrewRadev)/[**simple_bookmarks.vim**](https://github.com/AndrewRadev/simple_bookmarks.vim)",
+              "A small plugin to create named bookmarks in Vim",
+              "[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3826)"
+            ],
+            [
+              "15",
+              "[@AndrewRadev](https://github.com/AndrewRadev)/[**vim-eco**](https://github.com/AndrewRadev/vim-eco)",
+              "Eco (embedded coffee-script) support for Vim",
+              ""
+            ],
+            [
+              "11",
+              "[@AndrewRadev](https://github.com/AndrewRadev)/[**whitespaste.vim**](https://github.com/AndrewRadev/whitespaste.vim)",
+              "Automatically adjust number of blank lines when pasting",
+              "[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4351)"
+            ],
+            [
+              "11",
+              "[@AndrewRadev](https://github.com/AndrewRadev)/[**id3.vim**](https://github.com/AndrewRadev/id3.vim)",
+              "\"Edit\" mp3 files with Vim, or rather, their ID3 tags",
+              ""
+            ],
+            [
+              "9",
+              "[@AndrewRadev](https://github.com/AndrewRadev)/[**tagfinder.vim**](https://github.com/AndrewRadev/tagfinder.vim)",
+              "A simple vim plugin to look for tags of specific kinds: classes, functions, etc.",
+              "[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3771)"
+            ],
+            [
+              "7",
+              "[@AndrewRadev](https://github.com/AndrewRadev)/[**coffee_tools.vim**](https://github.com/AndrewRadev/coffee_tools.vim)",
+              "A work-in-progress plugin with tools for working with coffeescript",
+              ""
+            ],
+            [
+              "3",
+              "[@AndrewRadev](https://github.com/AndrewRadev)/[**andrews_nerdtree.vim**](https://github.com/AndrewRadev/andrews_nerdtree.vim)",
+              "My personal collection of NERDTree extensions",
+              ""
+            ],
+            [
+              "3",
+              "[@AndrewRadev](https://github.com/AndrewRadev)/[**better_netrw.vim**](https://github.com/AndrewRadev/better_netrw.vim)",
+              "A better file manager for Vim",
+              ""
+            ],
+            [
+              "3",
+              "[@boris-petrov](https://github.com/boris-petrov)/[**dotfiles**](https://github.com/boris-petrov/dotfiles)",
+              "My dotfiles",
+              ""
+            ],
+            [
+              "2",
+              "[@AndrewRadev](https://github.com/AndrewRadev)/[**subtitles.vim**](https://github.com/AndrewRadev/subtitles.vim)",
+              "(Not working) A vim plugin that helps you with editing subtitles",
+              ""
+            ],
+            [
+              "2",
+              "[@AndrewRadev](https://github.com/AndrewRadev)/[**rtranslate.vim**](https://github.com/AndrewRadev/rtranslate.vim)",
+              "Easier translations with rails",
+              ""
+            ],
+            [
+              "2",
+              "[@AndrewRadev](https://github.com/AndrewRadev)/[**archivitor.vim**](https://github.com/AndrewRadev/archivitor.vim)",
+              "Vim plugin for editing the contents of archives",
               ""
             ]
           ]
