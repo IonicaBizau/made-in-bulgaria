@@ -51,7 +51,8 @@
           "[C#](#c-1)",
           "[CSS](#css)",
           "[HTML](#html)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -1280,6 +1281,165 @@
               "[@danielng01](https://github.com/danielng01)/[**iris-colors-lite**](https://github.com/danielng01/iris-colors-lite)",
               "Iris colors lite is not Iris. This is open source project for blue light reduction and software brightness started from strach and different from the Iris core",
               "[:arrow_upper_right:](http://iristech.co)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "568",
+              "[@onqtam](https://github.com/onqtam)/[**doctest**](https://github.com/onqtam/doctest)",
+              "The lightest feature-rich C++ single-header testing framework for unit tests and TDD - docs:",
+              "[:arrow_upper_right:](http://bit.ly/1rsQ0Br)"
+            ],
+            [
+              "33",
+              "[@Hual](https://github.com/Hual)/[**SA-MP-Plus**](https://github.com/Hual/SA-MP-Plus)",
+              "A client modification for GTA:San Andreas that uses SA-MP's plugin SDK to interact with the SA-MP server and add new features",
+              ""
+            ],
+            [
+              "16",
+              "[@SymbolixDEV](https://github.com/SymbolixDEV)/[**Patchs**](https://github.com/SymbolixDEV/Patchs)",
+              "Wow Cores , Websites , Scripts , Patches , Programs , SQL - ALL IN ONE",
+              "[:arrow_upper_right:](http://curseofdoom.eu)"
+            ],
+            [
+              "10",
+              "[@Hual](https://github.com/Hual)/[**SAMPSON**](https://github.com/Hual/SAMPSON)",
+              "SAMPSON - A JSON plugin for SA-MP",
+              ""
+            ],
+            [
+              "10",
+              "[@kamend](https://github.com/kamend)/[**Kinect-Cloth**](https://github.com/kamend/Kinect-Cloth)",
+              "Cloth Physics + Kinect",
+              "[:arrow_upper_right:](http://www.kamend.com/)"
+            ],
+            [
+              "8",
+              "[@kamend](https://github.com/kamend)/[**Superformula3d**](https://github.com/kamend/Superformula3d)",
+              "A simple Superformula implementation",
+              ""
+            ],
+            [
+              "7",
+              "[@ironsteel](https://github.com/ironsteel)/[**iconv-android**](https://github.com/ironsteel/iconv-android)",
+              "Iconv lib with android build scripts. ",
+              ""
+            ],
+            [
+              "7",
+              "[@savage309](https://github.com/savage309)/[**HPC2015**](https://github.com/savage309/HPC2015)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@kamend](https://github.com/kamend)/[**InstancingExample**](https://github.com/kamend/InstancingExample)",
+              "OpenGL Instancing with Openframeworks example",
+              ""
+            ],
+            [
+              "4",
+              "[@ironsteel](https://github.com/ironsteel)/[**tinyxml-android**](https://github.com/ironsteel/tinyxml-android)",
+              "tiny xml for android",
+              ""
+            ],
+            [
+              "4",
+              "[@kamend](https://github.com/kamend)/[**kNN_ShapeMatch**](https://github.com/kamend/kNN_ShapeMatch)",
+              "Simple Shape Matching with kNN and OpenCV using Openframeworks and ofxCv",
+              ""
+            ],
+            [
+              "4",
+              "[@anrieff](https://github.com/anrieff)/[**trinity**](https://github.com/anrieff/trinity)",
+              "Simple raytracer in C++11 for the FMI raytracing course",
+              ""
+            ],
+            [
+              "3",
+              "[@nayyden](https://github.com/nayyden)/[**openUberShader**](https://github.com/nayyden/openUberShader)",
+              "University project - a try to create an open uber-shader written in glsl",
+              ""
+            ],
+            [
+              "3",
+              "[@kingofthebongo2008](https://github.com/kingofthebongo2008)/[**vitosha**](https://github.com/kingofthebongo2008/vitosha)",
+              "simple project",
+              ""
+            ],
+            [
+              "3",
+              "[@ironsteel](https://github.com/ironsteel)/[**gles2-experiments**](https://github.com/ironsteel/gles2-experiments)",
+              "Android native activity experiments",
+              ""
+            ],
+            [
+              "3",
+              "[@Hual](https://github.com/Hual)/[**JC2MP-Query**](https://github.com/Hual/JC2MP-Query)",
+              "Some JC2-MP server query snippets",
+              ""
+            ],
+            [
+              "3",
+              "[@AlexanderDzhoganov](https://github.com/AlexanderDzhoganov)/[**torrentstream**](https://github.com/AlexanderDzhoganov/torrentstream)",
+              "Streaming torrent client",
+              ""
+            ],
+            [
+              "3",
+              "[@SymbolixDEV](https://github.com/SymbolixDEV)/[**Core**](https://github.com/SymbolixDEV/Core)",
+              "Curse of Doom Fun || NOT PLAYABLE !!! |",
+              "[:arrow_upper_right:](http://curseofdoom.eu)"
+            ],
+            [
+              "3",
+              "[@Rolice](https://github.com/Rolice)/[**libwebsocket**](https://github.com/Rolice/libwebsocket)",
+              "Experimental C++ WebSocket Server Library",
+              ""
+            ],
+            [
+              "2",
+              "[@nayyden](https://github.com/nayyden)/[**ZVector**](https://github.com/nayyden/ZVector)",
+              "University Project 2D Vector Drawing Program",
+              ""
+            ],
+            [
+              "2",
+              "[@Hual](https://github.com/Hual)/[**QBinder**](https://github.com/Hual/QBinder)",
+              "QBinder - An open-source Windows keybinder, coded in C/++, using the WINAPI",
+              ""
+            ],
+            [
+              "2",
+              "[@AlexanderDzhoganov](https://github.com/AlexanderDzhoganov)/[**Game-of-Life**](https://github.com/AlexanderDzhoganov/Game-of-Life)",
+              "Very simple CUDA-based implementation of Conway's Game of Life (first CUDA project, here be dragons!)",
+              ""
+            ],
+            [
+              "2",
+              "[@kamend](https://github.com/kamend)/[**TwitterParticles**](https://github.com/kamend/TwitterParticles)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@ironsteel](https://github.com/ironsteel)/[**QtOME**](https://github.com/ironsteel/QtOME)",
+              "Material editor for Ogre3D written in Qt",
+              ""
             ]
           ]
         }
