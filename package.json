@@ -54,7 +54,8 @@
           "[C](undefined)",
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
-          "[CoffeeScript](#coffeescript)"
+          "[CoffeeScript](#coffeescript)",
+          "[Go](#go)"
         ]
       },
       {
@@ -1514,6 +1515,45 @@
               "[@astrolet](https://github.com/astrolet)/[**upon**](https://github.com/astrolet/upon)",
               "varied reference frame",
               "[:arrow_upper_right:](http://astrolin.org/to/upon)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Go #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "6",
+              "[@blaskov](https://github.com/blaskov)/[**go-whois**](https://github.com/blaskov/go-whois)",
+              "Simple Go module for interaction with WHOIS servers",
+              ""
+            ],
+            [
+              "6",
+              "[@momchil-atanasov](https://github.com/momchil-atanasov)/[**go-whiskey**](https://github.com/momchil-atanasov/go-whiskey)",
+              "A game engine written in Go",
+              ""
+            ],
+            [
+              "2",
+              "[@gaspiman](https://github.com/gaspiman)/[**cosine_similarity**](https://github.com/gaspiman/cosine_similarity)",
+              "Implementation of the Cosine similarity in Go (Golang)",
+              ""
+            ],
+            [
+              "2",
+              "[@momchil-atanasov](https://github.com/momchil-atanasov)/[**go-data-front**](https://github.com/momchil-atanasov/go-data-front)",
+              "A Go library for reading Wavefront 3D model resources (OBJ, MTL).",
+              ""
             ]
           ]
         }
