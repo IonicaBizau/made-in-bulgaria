@@ -48,7 +48,8 @@
         "ul": [
           "[JavaScript](#javascript)",
           "[Java](#java)",
-          "[C#](#c-1)"
+          "[C#](#c-1)",
+          "[CSS](#css)"
         ]
       },
       {
@@ -1033,6 +1034,45 @@
               "2",
               "[@KonstantinSimeonov](https://github.com/KonstantinSimeonov)/[**GnomUi**](https://github.com/KonstantinSimeonov/GnomUi)",
               "Mini-framework for Console UI with C#",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CSS #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@lyuboraykov](https://github.com/lyuboraykov)/[**petrol**](https://github.com/lyuboraykov/petrol)",
+              "HackFMI5 project",
+              ""
+            ],
+            [
+              "2",
+              "[@sis0k0](https://github.com/sis0k0)/[**sCOOLbry**](https://github.com/sis0k0/sCOOLbry)",
+              "Library management system",
+              "[:arrow_upper_right:](http:\\\\www.scoolbry.com)"
+            ],
+            [
+              "2",
+              "[@panev](https://github.com/panev)/[**submotion**](https://github.com/panev/submotion)",
+              "for science, you monster",
+              ""
+            ],
+            [
+              "2",
+              "[@ralinc](https://github.com/ralinc)/[**ralin.net-legacy**](https://github.com/ralinc/ralin.net-legacy)",
+              "Now deprecated in favor of the new version.",
               ""
             ]
           ]
