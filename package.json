@@ -38,5 +38,638 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/made-in-bulgaria/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/made-in-bulgaria#readme"
+  "homepage": "https://github.com/IonicaBizau/made-in-bulgaria#readme",
+  "blah": {
+    "installation": [
+      {
+        "h2": "Contents"
+      },
+      {
+        "ul": [
+          "[JavaScript](#javascript)"
+        ]
+      },
+      {
+        "h3": "JavaScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2750",
+              "[@astoilkov](https://github.com/astoilkov)/[**jsblocks**](https://github.com/astoilkov/jsblocks)",
+              "Better MV-ish Framework",
+              "[:arrow_upper_right:](http://jsblocks.com)"
+            ],
+            [
+              "2025",
+              "[@tonytomov](https://github.com/tonytomov)/[**jqGrid**](https://github.com/tonytomov/jqGrid)",
+              "jQuery grid plugin",
+              "[:arrow_upper_right:](www.trirand.com)"
+            ],
+            [
+              "1960",
+              "[@mgechev](https://github.com/mgechev)/[**javascript-algorithm…**](https://github.com/mgechev/javascript-algorithms)",
+              "JavaScript implementation of different computer science algorithms.",
+              "[:arrow_upper_right:](https://mgechev.github.io/javascript-algorithms/)"
+            ],
+            [
+              "1635",
+              "[@mgechev](https://github.com/mgechev)/[**angularjs-in-pattern…**](https://github.com/mgechev/angularjs-in-patterns)",
+              "AngularJS in patterns - this repository provides different look into AngularJS. It contains information where different design patterns are used inside the framework or any AngularJS application.",
+              "[:arrow_upper_right:](https://mgechev.github.io/angularjs-in-patterns/)"
+            ],
+            [
+              "1422",
+              "[@krasimir](https://github.com/krasimir)/[**deb.js**](https://github.com/krasimir/deb.js)",
+              "Minimalistic JavaScript library for debugging in the browser",
+              ""
+            ],
+            [
+              "1255",
+              "[@krasimir](https://github.com/krasimir)/[**absurd**](https://github.com/krasimir/absurd)",
+              "A JavaScript library with superpowers",
+              "[:arrow_upper_right:](http://absurdjs.com/)"
+            ],
+            [
+              "902",
+              "[@ttsvetko](https://github.com/ttsvetko)/[**HTML5-Desktop-Notifi…**](https://github.com/ttsvetko/HTML5-Desktop-Notifications)",
+              "Desktop notifications plugin for Chrome, Safari, Firefox and IE9+",
+              ""
+            ],
+            [
+              "840",
+              "[@krasimir](https://github.com/krasimir)/[**cssx**](https://github.com/krasimir/cssx)",
+              "CSS in JavaScript",
+              "[:arrow_upper_right:](http://krasimir.github.io/cssx/)"
+            ],
+            [
+              "755",
+              "[@astoilkov](https://github.com/astoilkov)/[**console.message**](https://github.com/astoilkov/console.message)",
+              "Console messages for cool kids",
+              ""
+            ],
+            [
+              "640",
+              "[@mgechev](https://github.com/mgechev)/[**jscapture**](https://github.com/mgechev/jscapture)",
+              "Screen recording and capturing with pure client-side JavaScript.",
+              "[:arrow_upper_right:](https://mgechev.github.io/jscapture/)"
+            ],
+            [
+              "461",
+              "[@krasimir](https://github.com/krasimir)/[**gifffer**](https://github.com/krasimir/gifffer)",
+              "A tiny JavaScript library that prevents the autoplaying of the animated Gifs",
+              ""
+            ],
+            [
+              "300",
+              "[@krasimir](https://github.com/krasimir)/[**lsbridge**](https://github.com/krasimir/lsbridge)",
+              "Using local storage as a communication channel",
+              ""
+            ],
+            [
+              "271",
+              "[@krasimir](https://github.com/krasimir)/[**react-webpack-starte…**](https://github.com/krasimir/react-webpack-starter)",
+              "A template for writing React based ES6 app using webpack",
+              ""
+            ],
+            [
+              "258",
+              "[@krasimir](https://github.com/krasimir)/[**coloor**](https://github.com/krasimir/coloor)",
+              "Image preloading utility",
+              "[:arrow_upper_right:](http://krasimir.github.io/coloor/example/)"
+            ],
+            [
+              "244",
+              "[@mgechev](https://github.com/mgechev)/[**mk.js**](https://github.com/mgechev/mk.js)",
+              "Canvas implementation of basic fighting game which allows multiplayer game over the network.",
+              "[:arrow_upper_right:](http://mk.mgechev.com/)"
+            ],
+            [
+              "232",
+              "[@krasimir](https://github.com/krasimir)/[**atomus**](https://github.com/krasimir/atomus)",
+              "A small utility library for running client-side tests in Node.js environment",
+              ""
+            ],
+            [
+              "188",
+              "[@krasimir](https://github.com/krasimir)/[**webpack-library-star…**](https://github.com/krasimir/webpack-library-starter)",
+              "Webpack based boilerplate for producing libraries (Input: ES6, Output: universal library)",
+              ""
+            ],
+            [
+              "147",
+              "[@mgechev](https://github.com/mgechev)/[**angular-aop**](https://github.com/mgechev/angular-aop)",
+              "Library for aspect-oriented programming with AngularJS.",
+              ""
+            ],
+            [
+              "143",
+              "[@mgechev](https://github.com/mgechev)/[**angular-immutable**](https://github.com/mgechev/angular-immutable)",
+              "Simple directive, which allows binding to Immutable.js collections.",
+              ""
+            ],
+            [
+              "135",
+              "[@StanAngeloff](https://github.com/StanAngeloff)/[**zoey**](https://github.com/StanAngeloff/zoey)",
+              "Small, customisable and lightweight framework for developing mobile apps.",
+              "[:arrow_upper_right:](http://StanAngeloff.github.com/zoey/)"
+            ],
+            [
+              "132",
+              "[@krasimir](https://github.com/krasimir)/[**navigo**](https://github.com/krasimir/navigo)",
+              "A simple vanilla JavaScript router with a fallback for older browsers",
+              "[:arrow_upper_right:](http://work.krasimirtsonev.com/git/navigo)"
+            ],
+            [
+              "123",
+              "[@mgechev](https://github.com/mgechev)/[**js-vnc-demo-project**](https://github.com/mgechev/js-vnc-demo-project)",
+              "Demo project for the class Advanced JavaScript at the department mathematics and informatics in Sofia University.",
+              ""
+            ],
+            [
+              "115",
+              "[@krasimir](https://github.com/krasimir)/[**EventBus**](https://github.com/krasimir/EventBus)",
+              "Simple JavaScript class for managing events",
+              "[:arrow_upper_right:](http://krasimirtsonev.com/blog/article/javascript-managing-events-dispatch-listen)"
+            ],
+            [
+              "114",
+              "[@krasimir](https://github.com/krasimir)/[**bubble.js**](https://github.com/krasimir/bubble.js)",
+              "Pleasing the DOM event handling",
+              ""
+            ],
+            [
+              "102",
+              "[@mgechev](https://github.com/mgechev)/[**angular-vnc**](https://github.com/mgechev/angular-vnc)",
+              "VNC client implemented with AngularJS and Yeoman",
+              ""
+            ],
+            [
+              "87",
+              "[@mgechev](https://github.com/mgechev)/[**ReactChat**](https://github.com/mgechev/ReactChat)",
+              "WebRTC chat with ReactJS",
+              ""
+            ],
+            [
+              "85",
+              "[@StanAngeloff](https://github.com/StanAngeloff)/[**lotte**](https://github.com/StanAngeloff/lotte)",
+              "Automated, headless browser testing (using PhantomJS).",
+              ""
+            ],
+            [
+              "85",
+              "[@mgechev](https://github.com/mgechev)/[**angular2-github-app-…**](https://github.com/mgechev/angular2-github-app-bootstrap)",
+              "Exercise for building simple Angular 2 apps",
+              ""
+            ],
+            [
+              "81",
+              "[@krasimir](https://github.com/krasimir)/[**react-place**](https://github.com/krasimir/react-place)",
+              "React geo location component based on Google Maps",
+              "[:arrow_upper_right:](http://krasimir.github.io/react-place)"
+            ],
+            [
+              "55",
+              "[@mgechev](https://github.com/mgechev)/[**light-angularjs**](https://github.com/mgechev/light-angularjs)",
+              "Light AngularJS implementation for my slides \"Lightweight AngularJS\"",
+              "[:arrow_upper_right:](https://speakerdeck.com/mgechev/lightweight-angularjs)"
+            ],
+            [
+              "54",
+              "[@mgechev](https://github.com/mgechev)/[**devtools-vnc**](https://github.com/mgechev/devtools-vnc)",
+              "VNC client for Chrome Devtools",
+              ""
+            ],
+            [
+              "49",
+              "[@mgechev](https://github.com/mgechev)/[**movement.js**](https://github.com/mgechev/movement.js)",
+              "Gesture recognition with JavaScript and HTML5.",
+              ""
+            ],
+            [
+              "39",
+              "[@krasimir](https://github.com/krasimir)/[**react-cssx**](https://github.com/krasimir/react-cssx)",
+              "CSS in React",
+              ""
+            ],
+            [
+              "30",
+              "[@mgechev](https://github.com/mgechev)/[**versionable-collecti…**](https://github.com/mgechev/versionable-collections)",
+              "Collection optimized for AngularJS 1.x one-way bindings",
+              ""
+            ],
+            [
+              "30",
+              "[@StanAngeloff](https://github.com/StanAngeloff)/[**komodo-html-toolkit**](https://github.com/StanAngeloff/komodo-html-toolkit)",
+              "[ABANDONED] A growing collection of tools to help you edit & author HTML/XML documents inside Komodo Edit/IDE",
+              "[:arrow_upper_right:](http://community.activestate.com/xpi/html-toolkit)"
+            ],
+            [
+              "30",
+              "[@mgechev](https://github.com/mgechev)/[**react-pstate**](https://github.com/mgechev/react-pstate)",
+              "Persistence of the state of ReactJS component",
+              ""
+            ],
+            [
+              "25",
+              "[@krasimir](https://github.com/krasimir)/[**auxilio**](https://github.com/krasimir/auxilio)",
+              "Extension for Google Chrome",
+              ""
+            ],
+            [
+              "24",
+              "[@mgechev](https://github.com/mgechev)/[**plainvm**](https://github.com/mgechev/plainvm)",
+              "plainvm allows you to control multiple virtual machines which are distributed among many hosts through your browser.",
+              "[:arrow_upper_right:](http://plainvm.mgechev.com/)"
+            ],
+            [
+              "23",
+              "[@gyoshev](https://github.com/gyoshev)/[**qhint**](https://github.com/gyoshev/qhint)",
+              "A routine that runs jsHint tests in qUnit",
+              "[:arrow_upper_right:](http://blog.gyoshev.net/2011/04/enforcing-coding-conventions-with-jshint-and-qunit/)"
+            ],
+            [
+              "22",
+              "[@vvasilev-](https://github.com/vvasilev-)/[**fullscreener**](https://github.com/vvasilev-/fullscreener)",
+              "Easy fullscreen backgrounds with jQuery.",
+              "[:arrow_upper_right:](http://vvasilev-.github.io/fullscreener/)"
+            ],
+            [
+              "19",
+              "[@krasimir](https://github.com/krasimir)/[**assets-pack**](https://github.com/krasimir/assets-pack)",
+              "Clever packing of .css, .less, .js files",
+              ""
+            ],
+            [
+              "18",
+              "[@mgechev](https://github.com/mgechev)/[**ng-tutorial**](https://github.com/mgechev/ng-tutorial)",
+              "Platform for AngularJS interactive tutorials",
+              ""
+            ],
+            [
+              "17",
+              "[@krasimir](https://github.com/krasimir)/[**blog-posts**](https://github.com/krasimir/blog-posts)",
+              "Source files of the articles published on krasimirtsonev.com",
+              ""
+            ],
+            [
+              "17",
+              "[@krasimir](https://github.com/krasimir)/[**fluxiny**](https://github.com/krasimir/fluxiny)",
+              "~1K implementation of flux architecture",
+              ""
+            ],
+            [
+              "14",
+              "[@mgechev](https://github.com/mgechev)/[**github-contributors-…**](https://github.com/mgechev/github-contributors-list)",
+              "Node.js script, which outputs all the contributors for given open GitHub project",
+              ""
+            ],
+            [
+              "14",
+              "[@krasimir](https://github.com/krasimir)/[**chain**](https://github.com/krasimir/chain)",
+              "Sequencing function calls in JavaScript",
+              ""
+            ],
+            [
+              "14",
+              "[@mgechev](https://github.com/mgechev)/[**blog.mgechev.com**](https://github.com/mgechev/blog.mgechev.com)",
+              "My personal blog.",
+              "[:arrow_upper_right:](http://blog.mgechev.com/)"
+            ],
+            [
+              "13",
+              "[@mgechev](https://github.com/mgechev)/[**lazy-loading-routes-…**](https://github.com/mgechev/lazy-loading-routes-angular2)",
+              "",
+              ""
+            ],
+            [
+              "12",
+              "[@ttsvetko](https://github.com/ttsvetko)/[**AngularJS-Calendar**](https://github.com/ttsvetko/AngularJS-Calendar)",
+              "Simple calendar using angular.js",
+              ""
+            ],
+            [
+              "11",
+              "[@StanAngeloff](https://github.com/StanAngeloff)/[**node-paperserve**](https://github.com/StanAngeloff/node-paperserve)",
+              "Quick and dirty web server from your working directory",
+              ""
+            ],
+            [
+              "11",
+              "[@StanAngeloff](https://github.com/StanAngeloff)/[**komodo-fuzzy-open**](https://github.com/StanAngeloff/komodo-fuzzy-open)",
+              "[ABANDONED] Quickly locate and open files using fuzzy matching",
+              ""
+            ],
+            [
+              "10",
+              "[@krasimir](https://github.com/krasimir)/[**grunt-absurd**](https://github.com/krasimir/grunt-absurd)",
+              "Grunt plugin for AbsurdJS compilation",
+              ""
+            ],
+            [
+              "9",
+              "[@krasimir](https://github.com/krasimir)/[**bit.js**](https://github.com/krasimir/bit.js)",
+              "A set of utility functions for JavaScript functions",
+              ""
+            ],
+            [
+              "9",
+              "[@krasimir](https://github.com/krasimir)/[**gulp-absurd**](https://github.com/krasimir/gulp-absurd)",
+              "A Gulp plugin for AbsurdJS",
+              ""
+            ],
+            [
+              "9",
+              "[@krasimir](https://github.com/krasimir)/[**css-steal**](https://github.com/krasimir/css-steal)",
+              "Given DOM element returns styles applied to it and all its children.",
+              ""
+            ],
+            [
+              "8",
+              "[@krasimir](https://github.com/krasimir)/[**coloor-loader**](https://github.com/krasimir/coloor-loader)",
+              "Webpack loader for Coloor (image preloading utility)",
+              ""
+            ],
+            [
+              "8",
+              "[@mgechev](https://github.com/mgechev)/[**react-drag**](https://github.com/mgechev/react-drag)",
+              "Up to date fork of react-draggable",
+              ""
+            ],
+            [
+              "7",
+              "[@outbounder](https://github.com/outbounder)/[**organic-angel**](https://github.com/outbounder/organic-angel)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@mgechev](https://github.com/mgechev)/[**jqcarousel**](https://github.com/mgechev/jqcarousel)",
+              "A carousel gallery",
+              "[:arrow_upper_right:](http://carousel.mgechev.com/)"
+            ],
+            [
+              "7",
+              "[@astoilkov](https://github.com/astoilkov)/[**preboot**](https://github.com/astoilkov/preboot)",
+              "Allows any client-side JavaScript framework (i.e. Angular, React, Ember, etc.) to hook into events before the framework is loaded.",
+              ""
+            ],
+            [
+              "7",
+              "[@RStankov](https://github.com/RStankov)/[**controldepo-3-widget…**](https://github.com/RStankov/controldepo-3-widgets)",
+              "A collection of widgets",
+              "[:arrow_upper_right:](http://blog.rstankov.com/tag/controldepo/)"
+            ],
+            [
+              "7",
+              "[@mgechev](https://github.com/mgechev)/[**blobreader**](https://github.com/mgechev/blobreader)",
+              "Simple interface for reading blobs sequentially",
+              ""
+            ],
+            [
+              "7",
+              "[@gyoshev](https://github.com/gyoshev)/[**cuttle**](https://github.com/gyoshev/cuttle)",
+              "Find the color transition function between two colors",
+              "[:arrow_upper_right:](http://blog.gyoshev.net/cuttle)"
+            ],
+            [
+              "7",
+              "[@gkostadinov](https://github.com/gkostadinov)/[**Instagram-Color-Sear…**](https://github.com/gkostadinov/Instagram-Color-Search-Python)",
+              "A color-based search for Instagram using Imagga's API. Python version.",
+              ""
+            ],
+            [
+              "6",
+              "[@mgechev](https://github.com/mgechev)/[**image-editor**](https://github.com/mgechev/image-editor)",
+              "HTML5 image editor",
+              ""
+            ],
+            [
+              "6",
+              "[@outbounder](https://github.com/outbounder)/[**organic-archconsole**](https://github.com/outbounder/organic-archconsole)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@outbounder](https://github.com/outbounder)/[**node-thequest**](https://github.com/outbounder/node-thequest)",
+              "little realtime mass multiplayer online game in nodejs",
+              "[:arrow_upper_right:](http://176.58.101.229:3000/)"
+            ],
+            [
+              "6",
+              "[@StanAngeloff](https://github.com/StanAngeloff)/[**komodo-refacto**](https://github.com/StanAngeloff/komodo-refacto)",
+              "[ABANDONED] Refactor your code!",
+              "[:arrow_upper_right:](http://community.activestate.com/xpi/refacto)"
+            ],
+            [
+              "6",
+              "[@RStankov](https://github.com/RStankov)/[**playground**](https://github.com/RStankov/playground)",
+              "My playground for various javascript/css/ruby and other ideas ",
+              ""
+            ],
+            [
+              "6",
+              "[@nikoladimitroff](https://github.com/nikoladimitroff)/[**thralldom**](https://github.com/nikoladimitroff/thralldom)",
+              "3d action game written in Typescript (or a big a pile of bullshit, who knows)",
+              ""
+            ],
+            [
+              "6",
+              "[@mgechev](https://github.com/mgechev)/[**angularjs-resource**](https://github.com/mgechev/angularjs-resource)",
+              "Source code for my blog post about the $resource service",
+              "[:arrow_upper_right:](http://blog.mgechev.com/2014/02/05/angularjs-resource-active-record-http/)"
+            ],
+            [
+              "6",
+              "[@mgechev](https://github.com/mgechev)/[**angular2-github-app**](https://github.com/mgechev/angular2-github-app)",
+              "Sample Angular 2 application, which communicates with the GitHub API",
+              ""
+            ],
+            [
+              "6",
+              "[@mgechev](https://github.com/mgechev)/[**benchpress-angularjs…**](https://github.com/mgechev/benchpress-angularjs-immutable)",
+              "Benchpress benchmarks for using AngularJS with immutable data",
+              ""
+            ],
+            [
+              "5",
+              "[@mgechev](https://github.com/mgechev)/[**angular2-ngc-rollup-…**](https://github.com/mgechev/angular2-ngc-rollup-build)",
+              "Simple build for \"Hello world!\" Angular 2 application with ngc and rollup.",
+              ""
+            ],
+            [
+              "5",
+              "[@mgechev](https://github.com/mgechev)/[**js-vnc-classroom-sho…**](https://github.com/mgechev/js-vnc-classroom-showcase)",
+              "Showcase of the JavaScript VNC client for classroom applications",
+              ""
+            ],
+            [
+              "5",
+              "[@RStankov](https://github.com/RStankov)/[**BackToScriptaculous**](https://github.com/RStankov/BackToScriptaculous)",
+              "A backward lib between scriptaculous and scripty2",
+              "[:arrow_upper_right:](http://www.rstankov.com)"
+            ],
+            [
+              "5",
+              "[@mgechev](https://github.com/mgechev)/[**physics-engine**](https://github.com/mgechev/physics-engine)",
+              "Building the physics engine from the book http://procyclone.com/ in JavaScript (hopefully)",
+              ""
+            ],
+            [
+              "5",
+              "[@kdankov](https://github.com/kdankov)/[**cinema**](https://github.com/kdankov/cinema)",
+              "An easy to use Interface page to Sofia's most popular cinemas",
+              "[:arrow_upper_right:](http://cinema.thelazyperson.org)"
+            ],
+            [
+              "5",
+              "[@outbounder](https://github.com/outbounder)/[**organic-stem-skeleto…**](https://github.com/outbounder/organic-stem-skeleton)",
+              "Cell with predefined dna for development of backend api, frontend client and/or both.",
+              ""
+            ],
+            [
+              "4",
+              "[@nikoladimitroff](https://github.com/nikoladimitroff)/[**SusiParser**](https://github.com/nikoladimitroff/SusiParser)",
+              "Parses Susi and stuff",
+              ""
+            ],
+            [
+              "4",
+              "[@outbounder](https://github.com/outbounder)/[**organic-webcell**](https://github.com/outbounder/organic-webcell)",
+              "organic implementation of webcell organelles",
+              ""
+            ],
+            [
+              "4",
+              "[@StanAngeloff](https://github.com/StanAngeloff)/[**turbovision-html5**](https://github.com/StanAngeloff/turbovision-html5)",
+              "HTML5 UI framework based on Borland TurboVision '92",
+              "[:arrow_upper_right:](http://StanAngeloff.github.com/turbovision-html5/)"
+            ],
+            [
+              "3",
+              "[@skylamer](https://github.com/skylamer)/[**eqs**](https://github.com/skylamer/eqs)",
+              "An earthquakes monitoring web app",
+              "[:arrow_upper_right:](http://eqmon.jit.su)"
+            ],
+            [
+              "3",
+              "[@astoilkov](https://github.com/astoilkov)/[**jscore**](https://github.com/astoilkov/jscore)",
+              "A JavaScript core",
+              ""
+            ],
+            [
+              "3",
+              "[@outbounder](https://github.com/outbounder)/[**componentjs**](https://github.com/outbounder/componentjs)",
+              "module enabling component based html/js development (flex like style)",
+              ""
+            ],
+            [
+              "3",
+              "[@krasimir](https://github.com/krasimir)/[**queue**](https://github.com/krasimir/queue)",
+              "Short JavaScript implementation of queue",
+              ""
+            ],
+            [
+              "3",
+              "[@krasimir](https://github.com/krasimir)/[**hackerify**](https://github.com/krasimir/hackerify)",
+              "Stubbing Browserify modules",
+              ""
+            ],
+            [
+              "3",
+              "[@iproduct](https://github.com/iproduct)/[**course-fullstack-rea…**](https://github.com/iproduct/course-fullstack-react)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@kunev](https://github.com/kunev)/[**noCommentBG**](https://github.com/kunev/noCommentBG)",
+              "chrome plugin for hiding comments on bulgarian news sites",
+              ""
+            ],
+            [
+              "2",
+              "[@krasimir](https://github.com/krasimir)/[**eslint-plugin-cssx**](https://github.com/krasimir/eslint-plugin-cssx)",
+              "CSSX plugin for ESLint",
+              ""
+            ],
+            [
+              "2",
+              "[@krasimir](https://github.com/krasimir)/[**hazard**](https://github.com/krasimir/hazard)",
+              "Producing UI with CSS in JavaScript! The next because-we-can thing :japanese_ogre:",
+              ""
+            ],
+            [
+              "2",
+              "[@krasimir](https://github.com/krasimir)/[**less-compiler**](https://github.com/krasimir/less-compiler)",
+              "Watch and compile your .less files automatically",
+              ""
+            ],
+            [
+              "2",
+              "[@StanAngeloff](https://github.com/StanAngeloff)/[**node-ytremote**](https://github.com/StanAngeloff/node-ytremote)",
+              "Get lazy, watch YouTube on the PC using your mobile device as a remote control.",
+              ""
+            ],
+            [
+              "2",
+              "[@outbounder](https://github.com/outbounder)/[**simpleui-techbrowser**](https://github.com/outbounder/simpleui-techbrowser)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@krasimir](https://github.com/krasimir)/[**babylon-plugin-cssx**](https://github.com/krasimir/babylon-plugin-cssx)",
+              "CSSX plugin to Babylon so it understands CSS in JavaScript",
+              ""
+            ],
+            [
+              "2",
+              "[@ivo-](https://github.com/ivo-)/[**tekken**](https://github.com/ivo-/tekken)",
+              "PDF tests generator right in your browser",
+              ""
+            ],
+            [
+              "2",
+              "[@RStankov](https://github.com/RStankov)/[**talks-code**](https://github.com/RStankov/talks-code)",
+              "Demo code from my talks",
+              ""
+            ],
+            [
+              "2",
+              "[@ivo-](https://github.com/ivo-)/[**tween.js**](https://github.com/ivo-/tween.js)",
+              "Simple tween class. It just does the math.",
+              ""
+            ],
+            [
+              "2",
+              "[@pivanov](https://github.com/pivanov)/[**photoshop-scripts**](https://github.com/pivanov/photoshop-scripts)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@gyoshev](https://github.com/gyoshev)/[**js13kgames-2013**](https://github.com/gyoshev/js13kgames-2013)",
+              "Competition entry for js13kgames 2013",
+              ""
+            ],
+            [
+              "2",
+              "[@gkostadinov](https://github.com/gkostadinov)/[**projectify.me**](https://github.com/gkostadinov/projectify.me)",
+              "",
+              ""
+            ]
+          ]
+        }
+      }
+    ]
+  }
 }
