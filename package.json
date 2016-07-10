@@ -62,7 +62,8 @@
           "[Perl](#perl)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Scala](#scala)"
         ]
       },
       {
@@ -2289,6 +2290,33 @@
               "2",
               "[@mitio](https://github.com/mitio)/[**theses-soa**](https://github.com/mitio/theses-soa)",
               "A simple project, representing SOA, Rails' ActiveResource and a hint of middleware architecture.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Scala #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@vdichev](https://github.com/vdichev)/[**lightmark**](https://github.com/vdichev/lightmark)",
+              "reStructuredText parser in Scala",
+              ""
+            ],
+            [
+              "2",
+              "[@stanvp](https://github.com/stanvp)/[**parallelnlp**](https://github.com/stanvp/parallelnlp)",
+              "",
               ""
             ]
           ]
