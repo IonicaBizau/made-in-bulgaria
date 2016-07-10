@@ -59,7 +59,8 @@
           "[Lua](#lua)",
           "[Matlab](#matlab)",
           "[Objective-C](#objective-c)",
-          "[Perl](#perl)"
+          "[Perl](#perl)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -1761,6 +1762,231 @@
               "2",
               "[@korikori](https://github.com/korikori)/[**A-Scanner-Darkly**](https://github.com/korikori/A-Scanner-Darkly)",
               "A simple and lightning-fast scanner for cpanel server stats written in bash, awk, and perl.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3371",
+              "[@erusev](https://github.com/erusev)/[**parsedown**](https://github.com/erusev/parsedown)",
+              "Better Markdown Parser in PHP",
+              "[:arrow_upper_right:](http://parsedown.org)"
+            ],
+            [
+              "585",
+              "[@RoumenDamianoff](https://github.com/RoumenDamianoff)/[**laravel-sitemap**](https://github.com/RoumenDamianoff/laravel-sitemap)",
+              "A not so simple sitemap generator for Laravel",
+              "[:arrow_upper_right:](https://roumen.it/projects/laravel-sitemap)"
+            ],
+            [
+              "323",
+              "[@erusev](https://github.com/erusev)/[**parsedown-extra**](https://github.com/erusev/parsedown-extra)",
+              "Markdown Extra Extension for Parsedown",
+              ""
+            ],
+            [
+              "252",
+              "[@erusev](https://github.com/erusev)/[**base**](https://github.com/erusev/base)",
+              "Simpler Database Intaractions in PHP",
+              ""
+            ],
+            [
+              "213",
+              "[@RoumenDamianoff](https://github.com/RoumenDamianoff)/[**laravel-feed**](https://github.com/RoumenDamianoff/laravel-feed)",
+              "A simple feed generator for Laravel",
+              "[:arrow_upper_right:](https://roumen.it/projects/laravel-feed)"
+            ],
+            [
+              "99",
+              "[@RoumenDamianoff](https://github.com/RoumenDamianoff)/[**laravel-assets**](https://github.com/RoumenDamianoff/laravel-assets)",
+              "Assets manager for Laravel",
+              "[:arrow_upper_right:](https://roumen.it/projects/laravel-assets)"
+            ],
+            [
+              "90",
+              "[@ivantcholakov](https://github.com/ivantcholakov)/[**starter-public-editi…**](https://github.com/ivantcholakov/starter-public-edition-4)",
+              "A PHP application starter, based on CodeIgniter",
+              ""
+            ],
+            [
+              "81",
+              "[@ivantcholakov](https://github.com/ivantcholakov)/[**codeigniter-phpmaile…**](https://github.com/ivantcholakov/codeigniter-phpmailer)",
+              "A CodeIgniter compatible email-library powered by PHPMailer",
+              ""
+            ],
+            [
+              "47",
+              "[@ivantcholakov](https://github.com/ivantcholakov)/[**gibberish-aes-php**](https://github.com/ivantcholakov/gibberish-aes-php)",
+              "A PHP port of Gibberish AES javascript encryption library, https://github.com/mdp/gibberish-aes",
+              ""
+            ],
+            [
+              "47",
+              "[@RoumenDamianoff](https://github.com/RoumenDamianoff)/[**laravel-disqus**](https://github.com/RoumenDamianoff/laravel-disqus)",
+              "Disqus API library for Laravel",
+              ""
+            ],
+            [
+              "39",
+              "[@ivantcholakov](https://github.com/ivantcholakov)/[**Codeigniter-Gravatar**](https://github.com/ivantcholakov/Codeigniter-Gravatar)",
+              "Gravatar Library for Codeigniter",
+              ""
+            ],
+            [
+              "31",
+              "[@nikolov-tmw](https://github.com/nikolov-tmw)/[**multilingual-wp**](https://github.com/nikolov-tmw/multilingual-wp)",
+              "A new plugin for multilingual content in WordPress ",
+              ""
+            ],
+            [
+              "21",
+              "[@RoumenDamianoff](https://github.com/RoumenDamianoff)/[**ci-feed**](https://github.com/RoumenDamianoff/ci-feed)",
+              "A simple feed generator for CodeIgniter",
+              "[:arrow_upper_right:](https://roumen.it/projects/ci-feed)"
+            ],
+            [
+              "19",
+              "[@ivantcholakov](https://github.com/ivantcholakov)/[**starter-public-editi…**](https://github.com/ivantcholakov/starter-public-edition-3)",
+              "A PHP application starter, based on CodeIgniter",
+              ""
+            ],
+            [
+              "17",
+              "[@RoumenDamianoff](https://github.com/RoumenDamianoff)/[**ci-sitemap**](https://github.com/RoumenDamianoff/ci-sitemap)",
+              "A simple sitemap generator for CodeIgniter",
+              "[:arrow_upper_right:](https://roumen.it/projects/ci-sitemap)"
+            ],
+            [
+              "15",
+              "[@ivantcholakov](https://github.com/ivantcholakov)/[**codeigniter-restserv…**](https://github.com/ivantcholakov/codeigniter-restserver-test)",
+              "A temporary repository for testing https://github.com/chriskacerguis/codeig…",
+              ""
+            ],
+            [
+              "15",
+              "[@VanTanev](https://github.com/VanTanev)/[**EqualNestBehavior**](https://github.com/VanTanev/EqualNestBehavior)",
+              "A Propel behavior designed to handle Equal Nest relations",
+              ""
+            ],
+            [
+              "14",
+              "[@narfbg](https://github.com/narfbg)/[**SimpleEncryption**](https://github.com/narfbg/SimpleEncryption)",
+              "Simple Encryption for PHP",
+              ""
+            ],
+            [
+              "13",
+              "[@antitoxic](https://github.com/antitoxic)/[**.fuelphp-phpstorm-wo…**](https://github.com/antitoxic/.fuelphp-phpstorm-workaround)",
+              "Workaround for the PHPStorm inability to pick classes on FuelPHP framwork ",
+              ""
+            ],
+            [
+              "8",
+              "[@mraiur](https://github.com/mraiur)/[**music-player**](https://github.com/mraiur/music-player)",
+              "A very lightweight directory based music player. Listing directories( artists ) and subdirectories( albums ). Making song playlist('s). Much TODO.",
+              ""
+            ],
+            [
+              "7",
+              "[@VanTanev](https://github.com/VanTanev)/[**dmMediaUploadifyerPl…**](https://github.com/VanTanev/dmMediaUploadifyerPlugin)",
+              "Diem plugin that adds multiple file upload to the media module in the admin app",
+              ""
+            ],
+            [
+              "4",
+              "[@ivantcholakov](https://github.com/ivantcholakov)/[**http_build_url**](https://github.com/ivantcholakov/http_build_url)",
+              "PHP fallback function http_build_url()",
+              ""
+            ],
+            [
+              "4",
+              "[@brutalenemy666](https://github.com/brutalenemy666)/[**wp-utils**](https://github.com/brutalenemy666/wp-utils)",
+              ":notebook: Some handy scripts for WordPress.",
+              ""
+            ],
+            [
+              "4",
+              "[@narfbg](https://github.com/narfbg)/[**ci4stuff**](https://github.com/narfbg/ci4stuff)",
+              "Document drafts and alpha quality code that may or may not go into CI4",
+              ""
+            ],
+            [
+              "4",
+              "[@ivantcholakov](https://github.com/ivantcholakov)/[**codeigniter-utf8**](https://github.com/ivantcholakov/codeigniter-utf8)",
+              "UTF-8 string support for CodeIgniter based on Kohana's implementation.",
+              ""
+            ],
+            [
+              "3",
+              "[@brutalenemy666](https://github.com/brutalenemy666)/[**carbon-image-library**](https://github.com/brutalenemy666/carbon-image-library)",
+              ":construction: Integration of WP Thumb with functions similar to the ones in WordPress . (In development)",
+              ""
+            ],
+            [
+              "3",
+              "[@brutalenemy666](https://github.com/brutalenemy666)/[**scripts**](https://github.com/brutalenemy666/scripts)",
+              ":notebook:",
+              ""
+            ],
+            [
+              "3",
+              "[@brutalenemy666](https://github.com/brutalenemy666)/[**design-patterns**](https://github.com/brutalenemy666/design-patterns)",
+              ":notebook: Sample code for several design patterns and practices.",
+              ""
+            ],
+            [
+              "3",
+              "[@ivantcholakov](https://github.com/ivantcholakov)/[**codeigniter-registry**](https://github.com/ivantcholakov/codeigniter-registry)",
+              "Registry library for CodeIgniter",
+              ""
+            ],
+            [
+              "2",
+              "[@brutalenemy666](https://github.com/brutalenemy666)/[**carbon-admin-columns…**](https://github.com/brutalenemy666/carbon-admin-columns-manager)",
+              "A way to add, remove and manage columns from WordPress administration screens.",
+              ""
+            ],
+            [
+              "2",
+              "[@VanTanev](https://github.com/VanTanev)/[**ncPropelChangeLogBeh…**](https://github.com/VanTanev/ncPropelChangeLogBehaviorPlugin)",
+              "A fork of the symfony plugin ncPropelChangeLogBehaviorPlugin",
+              ""
+            ],
+            [
+              "2",
+              "[@RoYaLBG](https://github.com/RoYaLBG)/[**JavascriptClassGener…**](https://github.com/RoYaLBG/JavascriptClassGenerator)",
+              "Code generation tool for basic Javascript OOP via prototypes",
+              ""
+            ],
+            [
+              "2",
+              "[@wildalmighty](https://github.com/wildalmighty)/[**KZPMailClearing**](https://github.com/wildalmighty/KZPMailClearing)",
+              "This is a simple class that simulates the work of KZPMailClearing.exe",
+              ""
+            ],
+            [
+              "2",
+              "[@EmanuelaMollova](https://github.com/EmanuelaMollova)/[**BudgetTracker**](https://github.com/EmanuelaMollova/BudgetTracker)",
+              "Application which helps you track your expenses.",
+              ""
+            ],
+            [
+              "2",
+              "[@ivantcholakov](https://github.com/ivantcholakov)/[**codeigniter-user-age…**](https://github.com/ivantcholakov/codeigniter-user-agent-helper)",
+              "User Agent Helper Functions",
               ""
             ]
           ]
