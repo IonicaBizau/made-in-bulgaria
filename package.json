@@ -52,7 +52,8 @@
           "[CSS](#css)",
           "[HTML](#html)",
           "[C](undefined)",
-          "[C++](#c-2)"
+          "[C++](#c-2)",
+          "[ActionScript](#actionscript)"
         ]
       },
       {
@@ -1439,6 +1440,33 @@
               "2",
               "[@ironsteel](https://github.com/ironsteel)/[**QtOME**](https://github.com/ironsteel/QtOME)",
               "Material editor for Ogre3D written in Qt",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "ActionScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "8",
+              "[@funluiji](https://github.com/funluiji)/[**AS3-starling-touch-s…**](https://github.com/funluiji/AS3-starling-touch-scroll)",
+              "this starling scrollbar let's you scroll anything easily in your projects. just initialise a starling.extensions.ClippedSprite and set it as the content for the scrollbar class.",
+              "[:arrow_upper_right:](myappsnippet.com)"
+            ],
+            [
+              "2",
+              "[@katzarsky](https://github.com/katzarsky)/[**BitStream**](https://github.com/katzarsky/BitStream)",
+              "Bit stream implementation. Written in ActionScript (AS3). ",
               ""
             ]
           ]
