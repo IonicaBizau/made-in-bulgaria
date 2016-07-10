@@ -60,7 +60,8 @@
           "[Matlab](#matlab)",
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -1987,6 +1988,141 @@
               "2",
               "[@ivantcholakov](https://github.com/ivantcholakov)/[**codeigniter-user-age…**](https://github.com/ivantcholakov/codeigniter-user-agent-helper)",
               "User Agent Helper Functions",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "51",
+              "[@IlianIliev](https://github.com/IlianIliev)/[**ubuntu-fabric-and-dj…**](https://github.com/IlianIliev/ubuntu-fabric-and-django)",
+              "Fabric script for server setup, creation and deployment of Django projects #Under construction",
+              ""
+            ],
+            [
+              "40",
+              "[@mignev](https://github.com/mignev)/[**shiftpi**](https://github.com/mignev/shiftpi)",
+              "ShiftPi is the easiest way to work with 74HC595 shift registers on your Raspberry Pi in Arduino style :)",
+              ""
+            ],
+            [
+              "21",
+              "[@IlianIliev](https://github.com/IlianIliev)/[**django-for-prototypi…**](https://github.com/IlianIliev/django-for-prototyping)",
+              "",
+              ""
+            ],
+            [
+              "13",
+              "[@IlianIliev](https://github.com/IlianIliev)/[**Simple-Site-Checker**](https://github.com/IlianIliev/Simple-Site-Checker)",
+              "Check the links in your website XML sitemap",
+              ""
+            ],
+            [
+              "4",
+              "[@ctmnz](https://github.com/ctmnz)/[**pythonIRC**](https://github.com/ctmnz/pythonIRC)",
+              "Simple python irc bot",
+              ""
+            ],
+            [
+              "4",
+              "[@jordanjambazov](https://github.com/jordanjambazov)/[**osqa-gplus**](https://github.com/jordanjambazov/osqa-gplus)",
+              "Google+ Sign-In for OSQA",
+              ""
+            ],
+            [
+              "3",
+              "[@svilendobrev](https://github.com/svilendobrev)/[**fuselage**](https://github.com/svilendobrev/fuselage)",
+              "tag-based semantic file system, in python, over FUSE. Pluggable aspects (parsing or interpretting). Querying and relations between tags/items. Modular architecture, allows different user-ends (fs/webdav/http/..), or backends (sql/rdf/..)",
+              ""
+            ],
+            [
+              "3",
+              "[@vladimiroff](https://github.com/vladimiroff)/[**asuras**](https://github.com/vladimiroff/asuras)",
+              "Nothing to see here yet. Move along.",
+              ""
+            ],
+            [
+              "3",
+              "[@mignev](https://github.com/mignev)/[**configo**](https://github.com/mignev/configo)",
+              "The easiest way to use existing JSON, XML or YAML config files from bash shell/scripts",
+              ""
+            ],
+            [
+              "2",
+              "[@vladimiroff](https://github.com/vladimiroff)/[**dotfiles**](https://github.com/vladimiroff/dotfiles)",
+              "My dotfiles goes here",
+              ""
+            ],
+            [
+              "2",
+              "[@svilendobrev](https://github.com/svilendobrev)/[**timed**](https://github.com/svilendobrev/timed)",
+              "bitemporal + unitemporal objects (data or module!) + contexts in python+sqlalchemy, with or without dbcook; +some attempt at history-enabled attributes",
+              ""
+            ],
+            [
+              "2",
+              "[@svilendobrev](https://github.com/svilendobrev)/[**svd_bin**](https://github.com/svilendobrev/svd_bin)",
+              "various tools + libraries, small or big, old'91 or new; most used are: vcs/, qini/ + aliases, filedir/, eee/, and audio-video",
+              ""
+            ],
+            [
+              "2",
+              "[@svilendobrev](https://github.com/svilendobrev)/[**svd_util**](https://github.com/svilendobrev/svd_util)",
+              "python utulity funcs, classes, small languages, frameworks, scripts. i tend to use most optz, attr, struct, py3, eutf",
+              ""
+            ],
+            [
+              "2",
+              "[@svilendobrev](https://github.com/svilendobrev)/[**aggregator_sql**](https://github.com/svilendobrev/aggregator_sql)",
+              "automatic aggregating columns in SQLAlchemy / python (SQLAlchemyAggregator)",
+              ""
+            ],
+            [
+              "2",
+              "[@marvellouz](https://github.com/marvellouz)/[**fmi-db2**](https://github.com/marvellouz/fmi-db2)",
+              "Course project for DBMS at FMI",
+              ""
+            ],
+            [
+              "2",
+              "[@marvellouz](https://github.com/marvellouz)/[**Quaternions**](https://github.com/marvellouz/Quaternions)",
+              "Python class for quaternions",
+              ""
+            ],
+            [
+              "2",
+              "[@IlianIliev](https://github.com/IlianIliev)/[**Status-Codes-Site**](https://github.com/IlianIliev/Status-Codes-Site)",
+              "A website returning all possible HTTP status codes and code descriptions. For test purposes.",
+              ""
+            ],
+            [
+              "2",
+              "[@ydm](https://github.com/ydm)/[**django-sameas**](https://github.com/ydm/django-sameas)",
+              "Django application that provides you with an easy-to-use template tag that replicates a block.",
+              ""
+            ],
+            [
+              "2",
+              "[@emou](https://github.com/emou)/[**duck**](https://github.com/emou/duck)",
+              "A prototype of a music player written in Python",
+              ""
+            ],
+            [
+              "2",
+              "[@mignev](https://github.com/mignev)/[**venv**](https://github.com/mignev/venv)",
+              "The easiest way to use Python Virtualenv",
               ""
             ]
           ]
