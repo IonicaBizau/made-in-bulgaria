@@ -55,7 +55,8 @@
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
           "[CoffeeScript](#coffeescript)",
-          "[Go](#go)"
+          "[Go](#go)",
+          "[Lua](#lua)"
         ]
       },
       {
@@ -1553,6 +1554,39 @@
               "2",
               "[@momchil-atanasov](https://github.com/momchil-atanasov)/[**go-data-front**](https://github.com/momchil-atanasov/go-data-front)",
               "A Go library for reading Wavefront 3D model resources (OBJ, MTL).",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Lua #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "4",
+              "[@meganukebmp](https://github.com/meganukebmp)/[**Soul-Shift**](https://github.com/meganukebmp/Soul-Shift)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@MIUI-Bulgaria](https://github.com/MIUI-Bulgaria)/[**MA-XML-5.0-BULGARIAN**](https://github.com/MIUI-Bulgaria/MA-XML-5.0-BULGARIAN)",
+              "MIUIv5 XML BULGARIAN TRANSLATION BY MIUI.BG",
+              "[:arrow_upper_right:](MIUI.BG)"
+            ],
+            [
+              "2",
+              "[@dvdvideo1234](https://github.com/dvdvideo1234)/[**GearAssemblyTool**](https://github.com/dvdvideo1234/GearAssemblyTool)",
+              "Gmod tool for meshing gears.",
               ""
             ]
           ]
