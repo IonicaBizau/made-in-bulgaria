@@ -47,7 +47,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -939,6 +940,99 @@
               "2",
               "[@dumbledore](https://github.com/dumbledore)/[**AlbiteZIP**](https://github.com/dumbledore/AlbiteZIP)",
               "Implementation of java.util.zip in Java Mobile using FileConnection through the AlbiteRandomReadingFile API and the sources from GNU's Classpath",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "106",
+              "[@flextry](https://github.com/flextry)/[**Telerik-Academy**](https://github.com/flextry/Telerik-Academy)",
+              "Course exercises | Telerik Academy 2013/2014 | Martin Nikolov",
+              "[:arrow_upper_right:](https://telerikacademy.com/)"
+            ],
+            [
+              "65",
+              "[@darind](https://github.com/darind)/[**samplemvc**](https://github.com/darind/samplemvc)",
+              "A sample ASP.NET MVC 2.0 project structure",
+              ""
+            ],
+            [
+              "16",
+              "[@vladislav-karamfilov](https://github.com/vladislav-karamfilov)/[**Bloggable**](https://github.com/vladislav-karamfilov/Bloggable)",
+              "Hiqh-quality blog system",
+              ""
+            ],
+            [
+              "9",
+              "[@Filkolev](https://github.com/Filkolev)/[**SoftUni**](https://github.com/Filkolev/SoftUni)",
+              "Contains all homework and exam problems from the curriculum of Software University.",
+              ""
+            ],
+            [
+              "4",
+              "[@mihayloff](https://github.com/mihayloff)/[**programming-basics-m…**](https://github.com/mihayloff/programming-basics-march-2016)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@ligaz](https://github.com/ligaz)/[**MicroModels**](https://github.com/ligaz/MicroModels)",
+              "Paul Stovell's MicroModels",
+              "[:arrow_upper_right:](http://www.paulstovell.com/micromodels-introduction)"
+            ],
+            [
+              "3",
+              "[@ivivanov](https://github.com/ivivanov)/[**TelerikAcademy**](https://github.com/ivivanov/TelerikAcademy)",
+              "C#, CSS3, HTML5, JS, ASP.NET, WCF, WPF, XAML, ...",
+              ""
+            ],
+            [
+              "3",
+              "[@vladislav-karamfilov](https://github.com/vladislav-karamfilov)/[**CSharp-Playground**](https://github.com/vladislav-karamfilov/CSharp-Playground)",
+              "Small projects in C# programming language",
+              ""
+            ],
+            [
+              "3",
+              "[@KonstantinSimeonov](https://github.com/KonstantinSimeonov)/[**Studying-with-Pesho-…**](https://github.com/KonstantinSimeonov/Studying-with-Pesho-and-Mimeto)",
+              "random interesting and not so interesting stuffs",
+              ""
+            ],
+            [
+              "3",
+              "[@KonstantinSimeonov](https://github.com/KonstantinSimeonov)/[**CSharp-OOP-Teamwork**](https://github.com/KonstantinSimeonov/CSharp-OOP-Teamwork)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@ligaz](https://github.com/ligaz)/[**ms-days-2009**](https://github.com/ligaz/ms-days-2009)",
+              "Slides and demos from MS Days 2009 talks",
+              ""
+            ],
+            [
+              "2",
+              "[@mihayloff](https://github.com/mihayloff)/[**programming-basics-j…**](https://github.com/mihayloff/programming-basics-january-2016)",
+              "Creating custom content for the lectures of the course Programming Basics @ Software University",
+              ""
+            ],
+            [
+              "2",
+              "[@KonstantinSimeonov](https://github.com/KonstantinSimeonov)/[**GnomUi**](https://github.com/KonstantinSimeonov/GnomUi)",
+              "Mini-framework for Console UI with C#",
               ""
             ]
           ]
