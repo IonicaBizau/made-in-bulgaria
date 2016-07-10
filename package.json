@@ -63,7 +63,8 @@
           "[PHP](#php)",
           "[Python](#python)",
           "[Ruby](#ruby)",
-          "[Scala](#scala)"
+          "[Scala](#scala)",
+          "[Shell](#shell)"
         ]
       },
       {
@@ -2317,6 +2318,57 @@
               "2",
               "[@stanvp](https://github.com/stanvp)/[**parallelnlp**](https://github.com/stanvp/parallelnlp)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Shell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "27",
+              "[@philippetev](https://github.com/philippetev)/[**HP-ProBook-Installer**](https://github.com/philippetev/HP-ProBook-Installer)",
+              "The HP ProBook Installer repo",
+              ""
+            ],
+            [
+              "4",
+              "[@fluxer](https://github.com/fluxer)/[**katana**](https://github.com/fluxer/katana)",
+              "Main repository of Katana Desktop environment",
+              "[:arrow_upper_right:](http://fluxer.github.io/katana)"
+            ],
+            [
+              "3",
+              "[@vpetkov](https://github.com/vpetkov)/[**rcfiles**](https://github.com/vpetkov/rcfiles)",
+              "some config files I use around",
+              ""
+            ],
+            [
+              "3",
+              "[@SlaSerX](https://github.com/SlaSerX)/[**TorrentFinder**](https://github.com/SlaSerX/TorrentFinder)",
+              "TorrentFinder.sh is a \"simple\" bash script that uses wget, grep, etc. to list the top 5 torrents found on each of the 8 sites based on the search you made. tested and working on archlinux TorrentFinder should work on any other linux distro, i've seen problems when using OSX. I have  tested it in cygwin and it's working just fine",
+              ""
+            ],
+            [
+              "2",
+              "[@ivandokov](https://github.com/ivandokov)/[**tools**](https://github.com/ivandokov/tools)",
+              "Tools to manage common services for Ubuntu server",
+              ""
+            ],
+            [
+              "2",
+              "[@boianmihailov](https://github.com/boianmihailov)/[**iptables-persistent**](https://github.com/boianmihailov/iptables-persistent)",
+              "init.d script for debin/ubuntu to keep persistent iptables rules",
               ""
             ]
           ]
