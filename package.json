@@ -56,7 +56,8 @@
           "[ActionScript](#actionscript)",
           "[CoffeeScript](#coffeescript)",
           "[Go](#go)",
-          "[Lua](#lua)"
+          "[Lua](#lua)",
+          "[Matlab](#matlab)"
         ]
       },
       {
@@ -1587,6 +1588,27 @@
               "2",
               "[@dvdvideo1234](https://github.com/dvdvideo1234)/[**GearAssemblyTool**](https://github.com/dvdvideo1234/GearAssemblyTool)",
               "Gmod tool for meshing gears.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Matlab #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@nikolovd](https://github.com/nikolovd)/[**pps**](https://github.com/nikolovd/pps)",
+              "",
               ""
             ]
           ]
