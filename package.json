@@ -57,7 +57,8 @@
           "[CoffeeScript](#coffeescript)",
           "[Go](#go)",
           "[Lua](#lua)",
-          "[Matlab](#matlab)"
+          "[Matlab](#matlab)",
+          "[Objective-C](#objective-c)"
         ]
       },
       {
@@ -1609,6 +1610,63 @@
               "3",
               "[@nikolovd](https://github.com/nikolovd)/[**pps**](https://github.com/nikolovd/pps)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Objective-C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "41",
+              "[@ptfly](https://github.com/ptfly)/[**XcodeKit**](https://github.com/ptfly/XcodeKit)",
+              "Duplicate / Remove current line or selection in Xcode 5",
+              ""
+            ],
+            [
+              "31",
+              "[@supudo](https://github.com/supudo)/[**SNIndexedScroller**](https://github.com/supudo/SNIndexedScroller)",
+              "Custom indexed scroller",
+              ""
+            ],
+            [
+              "4",
+              "[@tparkerpp](https://github.com/tparkerpp)/[**Uber-Clone-App**](https://github.com/tparkerpp/Uber-Clone-App)",
+              "Uber Clone App in Swift",
+              ""
+            ],
+            [
+              "4",
+              "[@ptfly](https://github.com/ptfly)/[**AirPlayMe**](https://github.com/ptfly/AirPlayMe)",
+              "Mac OS X application that will scan your Movies/TV Shows library and play them through Beamer.app on your AppleTV",
+              ""
+            ],
+            [
+              "2",
+              "[@tuparev](https://github.com/tuparev)/[**SoftwareEtudes**](https://github.com/tuparev/SoftwareEtudes)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@tparkerpp](https://github.com/tparkerpp)/[**CandyCart**](https://github.com/tparkerpp/CandyCart)",
+              "WooCommerce app",
+              ""
+            ],
+            [
+              "2",
+              "[@tparkerpp](https://github.com/tparkerpp)/[**cleverGarry**](https://github.com/tparkerpp/cleverGarry)",
+              "Prototype in Swift",
               ""
             ]
           ]
