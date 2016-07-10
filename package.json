@@ -61,7 +61,8 @@
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[Ruby](#ruby)"
         ]
       },
       {
@@ -2123,6 +2124,171 @@
               "2",
               "[@mignev](https://github.com/mignev)/[**venv**](https://github.com/mignev/venv)",
               "The easiest way to use Python Virtualenv",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Ruby #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "25",
+              "[@valo](https://github.com/valo)/[**maycamp_arena**](https://github.com/valo/maycamp_arena)",
+              "This is the grading system behind http://arena.maycamp.com. It started as a fork of spoj0, but at the end was almost completely reimplemented.",
+              "[:arrow_upper_right:](http://openfmi.net/projects/spoj0/)"
+            ],
+            [
+              "10",
+              "[@mitio](https://github.com/mitio)/[**TrackMe**](https://github.com/mitio/TrackMe)",
+              "Real-time GPS tracking system, with social features on top of it.",
+              ""
+            ],
+            [
+              "9",
+              "[@kalkov](https://github.com/kalkov)/[**rails4_client_side_v…**](https://github.com/kalkov/rails4_client_side_validations)",
+              "",
+              ""
+            ],
+            [
+              "8",
+              "[@mitio](https://github.com/mitio)/[**quizzes**](https://github.com/mitio/quizzes)",
+              "A simple Rails 3 app for the \"Programming in Ruby\" course in the Sofia University",
+              "[:arrow_upper_right:](http://fmi.ruby.bg)"
+            ],
+            [
+              "5",
+              "[@underlog](https://github.com/underlog)/[**confu**](https://github.com/underlog/confu)",
+              "Yet another *fu - this time for rails configuration made easier",
+              ""
+            ],
+            [
+              "5",
+              "[@underlog](https://github.com/underlog)/[**unpacker**](https://github.com/underlog/unpacker)",
+              "ruby gem for working with archives (relies on system binaries)",
+              "[:arrow_upper_right:](http://github.com/underlog/unpacker)"
+            ],
+            [
+              "4",
+              "[@underlog](https://github.com/underlog)/[**shellshot**](https://github.com/underlog/shellshot)",
+              "ruby proxy handling the complexities of system invocations",
+              ""
+            ],
+            [
+              "3",
+              "[@mytrile](https://github.com/mytrile)/[**shorty**](https://github.com/mytrile/shorty)",
+              "Simple URL shortener",
+              "[:arrow_upper_right:](http://rsize.me)"
+            ],
+            [
+              "3",
+              "[@mitio](https://github.com/mitio)/[**programming-at-athlo…**](https://github.com/mitio/programming-at-athlon)",
+              "A small and experimental programming course which takes place at Athlon Sofia.",
+              ""
+            ],
+            [
+              "3",
+              "[@underlog](https://github.com/underlog)/[**tefter**](https://github.com/underlog/tefter)",
+              "a spare-time may-never-be done project",
+              ""
+            ],
+            [
+              "3",
+              "[@valo](https://github.com/valo)/[**rchest**](https://github.com/valo/rchest)",
+              "Configuring and running chroot jails made easy with this little ruby library",
+              ""
+            ],
+            [
+              "3",
+              "[@mitio](https://github.com/mitio)/[**futureiscode**](https://github.com/mitio/futureiscode)",
+              "Сайт на кампанията \"Бъдещето е код\" - турне на ентусиасти, работещи в IT-сферата из училища в страната, с цел популяризиране на програмирането.",
+              "[:arrow_upper_right:](http://www.futureiscode.com/)"
+            ],
+            [
+              "3",
+              "[@valo](https://github.com/valo)/[**ember_data_active_mo…**](https://github.com/valo/ember_data_active_model_parser)",
+              "A parser for Her compatible with ember-data's active_model_serializers format",
+              ""
+            ],
+            [
+              "3",
+              "[@valo](https://github.com/valo)/[**rprocfs**](https://github.com/valo/rprocfs)",
+              "An easy way to read process details from the proc filesystem",
+              ""
+            ],
+            [
+              "3",
+              "[@kirilk](https://github.com/kirilk)/[**simatic-runner**](https://github.com/kirilk/simatic-runner)",
+              "Simatic data fetcher in Ruby with EventMachine",
+              ""
+            ],
+            [
+              "2",
+              "[@underlog](https://github.com/underlog)/[**active-forms**](https://github.com/underlog/active-forms)",
+              "Ruby on Rails plugin to ease the pain of repetitive forms creation",
+              ""
+            ],
+            [
+              "2",
+              "[@valo](https://github.com/valo)/[**session_dump**](https://github.com/valo/session_dump)",
+              "A simple plugin to dump client's session data at each request",
+              ""
+            ],
+            [
+              "2",
+              "[@edzhelyov](https://github.com/edzhelyov)/[**fakey**](https://github.com/edzhelyov/fakey)",
+              "Foreign keys plugin for Rails, in a better way",
+              ""
+            ],
+            [
+              "2",
+              "[@edzhelyov](https://github.com/edzhelyov)/[**product_manager**](https://github.com/edzhelyov/product_manager)",
+              "Create and manage different product schema and their instances.",
+              ""
+            ],
+            [
+              "2",
+              "[@mytrile](https://github.com/mytrile)/[**redcar_plugin**](https://github.com/mytrile/redcar_plugin)",
+              "redcar_plugin is simple command-line utility to help you install,update and delete redcar plugins",
+              "[:arrow_upper_right:](https://github.com/mytrile/redcar_plugin)"
+            ],
+            [
+              "2",
+              "[@mytrile](https://github.com/mytrile)/[**twitshoes**](https://github.com/mytrile/twitshoes)",
+              "Twitter client written in Ruby using Shoes",
+              "[:arrow_upper_right:](http://github/mitkok/twitshoes/tree/master)"
+            ],
+            [
+              "2",
+              "[@jivko](https://github.com/jivko)/[**lita-twit**](https://github.com/jivko/lita-twit)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@dminchev](https://github.com/dminchev)/[**chicita**](https://github.com/dminchev/chicita)",
+              "chicita",
+              ""
+            ],
+            [
+              "2",
+              "[@mitio](https://github.com/mitio)/[**namer**](https://github.com/mitio/namer)",
+              "A simple app that allows remote brainstorming via anonymous name suggestions and voting",
+              "[:arrow_upper_right:](http://namer.herokuapp.com)"
+            ],
+            [
+              "2",
+              "[@mitio](https://github.com/mitio)/[**theses-soa**](https://github.com/mitio/theses-soa)",
+              "A simple project, representing SOA, Rails' ActiveResource and a hint of middleware architecture.",
               ""
             ]
           ]
