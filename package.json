@@ -53,7 +53,8 @@
           "[HTML](#html)",
           "[C](undefined)",
           "[C++](#c-2)",
-          "[ActionScript](#actionscript)"
+          "[ActionScript](#actionscript)",
+          "[CoffeeScript](#coffeescript)"
         ]
       },
       {
@@ -1468,6 +1469,51 @@
               "[@katzarsky](https://github.com/katzarsky)/[**BitStream**](https://github.com/katzarsky/BitStream)",
               "Bit stream implementation. Written in ActionScript (AS3). ",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CoffeeScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "18",
+              "[@orlin](https://github.com/orlin)/[**statica**](https://github.com/orlin/statica)",
+              "gulp harp",
+              ""
+            ],
+            [
+              "8",
+              "[@astrolet](https://github.com/astrolet)/[**astrolin.org**](https://github.com/astrolet/astrolin.org)",
+              "",
+              "[:arrow_upper_right:](http://astrolin.org)"
+            ],
+            [
+              "5",
+              "[@astrolet](https://github.com/astrolet)/[**eden**](https://github.com/astrolet/eden)",
+              "this ephemeris does essentially node",
+              "[:arrow_upper_right:](astrolin.org/to/eden)"
+            ],
+            [
+              "3",
+              "[@astrolet](https://github.com/astrolet)/[**archai**](https://github.com/astrolet/archai)",
+              "animating the cosmos, by definition and from a human use case condition / perspective",
+              "[:arrow_upper_right:](astrolin.org/to/archai)"
+            ],
+            [
+              "2",
+              "[@astrolet](https://github.com/astrolet)/[**upon**](https://github.com/astrolet/upon)",
+              "varied reference frame",
+              "[:arrow_upper_right:](http://astrolin.org/to/upon)"
             ]
           ]
         }
