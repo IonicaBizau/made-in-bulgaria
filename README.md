@@ -5,13 +5,6 @@
 
 > A list of neat projects made in Bulgaria
 
-## :cloud: Installation
-
-```sh
-$ npm i --save made-in-bulgaria
-```
-
-
 ## Contents
 
  - [JavaScript](#javascript)
@@ -452,31 +445,6 @@ $ npm i --save made-in-bulgaria
 2 | [@AndrewRadev](https://github.com/AndrewRadev)/[**subtitles.vim**](https://github.com/AndrewRadev/subtitles.vim) | (Not working) A vim plugin that helps you with editing subtitles |
 2 | [@AndrewRadev](https://github.com/AndrewRadev)/[**rtranslate.vim**](https://github.com/AndrewRadev/rtranslate.vim) | Easier translations with rails |
 2 | [@AndrewRadev](https://github.com/AndrewRadev)/[**archivitor.vim**](https://github.com/AndrewRadev/archivitor.vim) | Vim plugin for editing the contents of archives |
-
-## :clipboard: Example
-
-
-
-```js
-const madeInBulgaria = require("made-in-bulgaria");
-
-console.log(madeInBulgaria());
-```
-
-## :memo: Documentation
-
-
-### `madeInBulgaria(a, b)`
-A list of neat projects made in Bulgaria
-
-#### Params
-- **Number** `a`: Param descrpition.
-- **Number** `b`: Param descrpition.
-
-#### Return
-- **Number** Return description.
-
-
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
