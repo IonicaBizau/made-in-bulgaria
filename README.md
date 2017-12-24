@@ -9,6 +9,7 @@
 
 ## Contents
 
+
  - [JavaScript](#javascript)
  - [Java](#java)
  - [C#](#c-1)
@@ -31,6 +32,7 @@
  - [VimL](#viml)
 
 ### JavaScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2750 | [@astoilkov](https://github.com/astoilkov)/[**jsblocks**](https://github.com/astoilkov/jsblocks) | Better MV-ish Framework | [:arrow_upper_right:](http://jsblocks.com)
@@ -134,7 +136,9 @@
 2 | [@pivanov](https://github.com/pivanov)/[**photoshop-scripts**](https://github.com/pivanov/photoshop-scripts) |  |
 2 | [@gyoshev](https://github.com/gyoshev)/[**js13kgames-2013**](https://github.com/gyoshev/js13kgames-2013) | Competition entry for js13kgames 2013 |
 2 | [@gkostadinov](https://github.com/gkostadinov)/[**projectify.me**](https://github.com/gkostadinov/projectify.me) |  |
+
 ### Java #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 1174 | [@geftimov](https://github.com/geftimov)/[**android-pathview**](https://github.com/geftimov/android-pathview) | Android view with both path from constructed path or from svg. |
@@ -180,7 +184,9 @@
 2 | [@groupsky](https://github.com/groupsky)/[**Contacto**](https://github.com/groupsky/Contacto) | Address book application |
 2 | [@pveentjer](https://github.com/pveentjer)/[**brooklyn-hazelcast-a…**](https://github.com/pveentjer/brooklyn-hazelcast-actors) | Actors framework on top of Hazelcast 3.x |
 2 | [@dumbledore](https://github.com/dumbledore)/[**AlbiteZIP**](https://github.com/dumbledore/AlbiteZIP) | Implementation of java.util.zip in Java Mobile using FileConnection through the AlbiteRandomReadingFile API and the sources from GNU's Classpath |
+
 ### C# #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 106 | [@flextry](https://github.com/flextry)/[**Telerik-Academy**](https://github.com/flextry/Telerik-Academy) | Course exercises | Telerik Academy 2013/2014 | Martin Nikolov | [:arrow_upper_right:](https://telerikacademy.com/)
@@ -196,19 +202,25 @@
 2 | [@ligaz](https://github.com/ligaz)/[**ms-days-2009**](https://github.com/ligaz/ms-days-2009) | Slides and demos from MS Days 2009 talks |
 2 | [@mihayloff](https://github.com/mihayloff)/[**programming-basics-j…**](https://github.com/mihayloff/programming-basics-january-2016) | Creating custom content for the lectures of the course Programming Basics @ Software University |
 2 | [@KonstantinSimeonov](https://github.com/KonstantinSimeonov)/[**GnomUi**](https://github.com/KonstantinSimeonov/GnomUi) | Mini-framework for Console UI with C# |
+
 ### CSS #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3 | [@lyuboraykov](https://github.com/lyuboraykov)/[**petrol**](https://github.com/lyuboraykov/petrol) | HackFMI5 project |
 2 | [@sis0k0](https://github.com/sis0k0)/[**sCOOLbry**](https://github.com/sis0k0/sCOOLbry) | Library management system | [:arrow_upper_right:](http:\\www.scoolbry.com)
 2 | [@panev](https://github.com/panev)/[**submotion**](https://github.com/panev/submotion) | for science, you monster |
 2 | [@ralinc](https://github.com/ralinc)/[**ralin.net-legacy**](https://github.com/ralinc/ralin.net-legacy) | Now deprecated in favor of the new version. |
+
 ### HTML #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 16 | [@fire1](https://github.com/fire1)/[**DuplicateElement**](https://github.com/fire1/DuplicateElement) | jQuery plugin for duplicating fields with buttons (create/remove)  |
 3 | [@scriptex](https://github.com/scriptex)/[**animated**](https://github.com/scriptex/animated) | css and jquery animations on scroll |
+
 ### C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 81 | [@gfto](https://github.com/gfto)/[**toybox**](https://github.com/gfto/toybox) | The goal of the Toybox project is to create simple implementations of all the important Linux command line utilities. This repo is mirror of the official git hosted @ https://github.com/landley/toybox It is synced with toybox repo every 6 hours. The development is done on the mailing list: <toybox@lists.landley.net>. Post patches there. | [:arrow_upper_right:](http://landley.net/toybox/)
@@ -238,7 +250,9 @@
 2 | [@koue](https://github.com/koue)/[**slowcgi**](https://github.com/koue/slowcgi) | FreeBSD port of OpenBSD slowcgi |
 2 | [@profglavcho](https://github.com/profglavcho)/[**mt6735-kernel-3.10.6…**](https://github.com/profglavcho/mt6735-kernel-3.10.61) |  |
 2 | [@danielng01](https://github.com/danielng01)/[**iris-colors-lite**](https://github.com/danielng01/iris-colors-lite) | Iris colors lite is not Iris. This is open source project for blue light reduction and software brightness started from strach and different from the Iris core | [:arrow_upper_right:](http://iristech.co)
+
 ### C++ #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 568 | [@onqtam](https://github.com/onqtam)/[**doctest**](https://github.com/onqtam/doctest) | The lightest feature-rich C++ single-header testing framework for unit tests and TDD - docs: | [:arrow_upper_right:](http://bit.ly/1rsQ0Br)
@@ -265,12 +279,16 @@
 2 | [@AlexanderDzhoganov](https://github.com/AlexanderDzhoganov)/[**Game-of-Life**](https://github.com/AlexanderDzhoganov/Game-of-Life) | Very simple CUDA-based implementation of Conway's Game of Life (first CUDA project, here be dragons!) |
 2 | [@kamend](https://github.com/kamend)/[**TwitterParticles**](https://github.com/kamend/TwitterParticles) |  |
 2 | [@ironsteel](https://github.com/ironsteel)/[**QtOME**](https://github.com/ironsteel/QtOME) | Material editor for Ogre3D written in Qt |
+
 ### ActionScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 8 | [@funluiji](https://github.com/funluiji)/[**AS3-starling-touch-s…**](https://github.com/funluiji/AS3-starling-touch-scroll) | this starling scrollbar let's you scroll anything easily in your projects. just initialise a starling.extensions.ClippedSprite and set it as the content for the scrollbar class. | [:arrow_upper_right:](myappsnippet.com)
 2 | [@katzarsky](https://github.com/katzarsky)/[**BitStream**](https://github.com/katzarsky/BitStream) | Bit stream implementation. Written in ActionScript (AS3).  |
+
 ### CoffeeScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 18 | [@orlin](https://github.com/orlin)/[**statica**](https://github.com/orlin/statica) | gulp harp |
@@ -278,24 +296,32 @@
 5 | [@astrolet](https://github.com/astrolet)/[**eden**](https://github.com/astrolet/eden) | this ephemeris does essentially node | [:arrow_upper_right:](astrolin.org/to/eden)
 3 | [@astrolet](https://github.com/astrolet)/[**archai**](https://github.com/astrolet/archai) | animating the cosmos, by definition and from a human use case condition / perspective | [:arrow_upper_right:](astrolin.org/to/archai)
 2 | [@astrolet](https://github.com/astrolet)/[**upon**](https://github.com/astrolet/upon) | varied reference frame | [:arrow_upper_right:](http://astrolin.org/to/upon)
+
 ### Go #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 6 | [@blaskov](https://github.com/blaskov)/[**go-whois**](https://github.com/blaskov/go-whois) | Simple Go module for interaction with WHOIS servers |
 6 | [@momchil-atanasov](https://github.com/momchil-atanasov)/[**go-whiskey**](https://github.com/momchil-atanasov/go-whiskey) | A game engine written in Go |
 2 | [@gaspiman](https://github.com/gaspiman)/[**cosine_similarity**](https://github.com/gaspiman/cosine_similarity) | Implementation of the Cosine similarity in Go (Golang) |
 2 | [@momchil-atanasov](https://github.com/momchil-atanasov)/[**go-data-front**](https://github.com/momchil-atanasov/go-data-front) | A Go library for reading Wavefront 3D model resources (OBJ, MTL). |
+
 ### Lua #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 4 | [@meganukebmp](https://github.com/meganukebmp)/[**Soul-Shift**](https://github.com/meganukebmp/Soul-Shift) |  |
 3 | [@MIUI-Bulgaria](https://github.com/MIUI-Bulgaria)/[**MA-XML-5.0-BULGARIAN**](https://github.com/MIUI-Bulgaria/MA-XML-5.0-BULGARIAN) | MIUIv5 XML BULGARIAN TRANSLATION BY MIUI.BG | [:arrow_upper_right:](MIUI.BG)
 2 | [@dvdvideo1234](https://github.com/dvdvideo1234)/[**GearAssemblyTool**](https://github.com/dvdvideo1234/GearAssemblyTool) | Gmod tool for meshing gears. |
+
 ### Matlab #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3 | [@nikolovd](https://github.com/nikolovd)/[**pps**](https://github.com/nikolovd/pps) |  |
+
 ### Objective-C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 41 | [@ptfly](https://github.com/ptfly)/[**XcodeKit**](https://github.com/ptfly/XcodeKit) | Duplicate / Remove current line or selection in Xcode 5 |
@@ -305,7 +331,9 @@
 2 | [@tuparev](https://github.com/tuparev)/[**SoftwareEtudes**](https://github.com/tuparev/SoftwareEtudes) |  |
 2 | [@tparkerpp](https://github.com/tparkerpp)/[**CandyCart**](https://github.com/tparkerpp/CandyCart) | WooCommerce app |
 2 | [@tparkerpp](https://github.com/tparkerpp)/[**cleverGarry**](https://github.com/tparkerpp/cleverGarry) | Prototype in Swift |
+
 ### Perl #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 16 | [@ddmitov](https://github.com/ddmitov)/[**perl-executing-brows…**](https://github.com/ddmitov/perl-executing-browser) | Minimalistic HTML framework for Perl 5 desktop applications |
@@ -321,7 +349,9 @@
 2 | [@pshangov](https://github.com/pshangov)/[**moosex-params**](https://github.com/pshangov/moosex-params) | MooseX::Params - Advanced parameter validation for Moose |
 2 | [@pau4o](https://github.com/pau4o)/[**easy-virtualbox-menu**](https://github.com/pau4o/easy-virtualbox-menu) | Simple tool to manage your VirtualBox machines. |
 2 | [@korikori](https://github.com/korikori)/[**A-Scanner-Darkly**](https://github.com/korikori/A-Scanner-Darkly) | A simple and lightning-fast scanner for cpanel server stats written in bash, awk, and perl. |
+
 ### PHP #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3371 | [@erusev](https://github.com/erusev)/[**parsedown**](https://github.com/erusev/parsedown) | Better Markdown Parser in PHP | [:arrow_upper_right:](http://parsedown.org)
@@ -359,7 +389,9 @@
 2 | [@wildalmighty](https://github.com/wildalmighty)/[**KZPMailClearing**](https://github.com/wildalmighty/KZPMailClearing) | This is a simple class that simulates the work of KZPMailClearing.exe |
 2 | [@EmanuelaMollova](https://github.com/EmanuelaMollova)/[**BudgetTracker**](https://github.com/EmanuelaMollova/BudgetTracker) | Application which helps you track your expenses. |
 2 | [@ivantcholakov](https://github.com/ivantcholakov)/[**codeigniter-user-age…**](https://github.com/ivantcholakov/codeigniter-user-agent-helper) | User Agent Helper Functions |
+
 ### Python #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 51 | [@IlianIliev](https://github.com/IlianIliev)/[**ubuntu-fabric-and-dj…**](https://github.com/IlianIliev/ubuntu-fabric-and-django) | Fabric script for server setup, creation and deployment of Django projects #Under construction |
@@ -382,7 +414,9 @@
 2 | [@ydm](https://github.com/ydm)/[**django-sameas**](https://github.com/ydm/django-sameas) | Django application that provides you with an easy-to-use template tag that replicates a block. |
 2 | [@emou](https://github.com/emou)/[**duck**](https://github.com/emou/duck) | A prototype of a music player written in Python |
 2 | [@mignev](https://github.com/mignev)/[**venv**](https://github.com/mignev/venv) | The easiest way to use Python Virtualenv |
+
 ### Ruby #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 25 | [@valo](https://github.com/valo)/[**maycamp_arena**](https://github.com/valo/maycamp_arena) | This is the grading system behind http://arena.maycamp.com. It started as a fork of spoj0, but at the end was almost completely reimplemented. | [:arrow_upper_right:](http://openfmi.net/projects/spoj0/)
@@ -410,12 +444,16 @@
 2 | [@dminchev](https://github.com/dminchev)/[**chicita**](https://github.com/dminchev/chicita) | chicita |
 2 | [@mitio](https://github.com/mitio)/[**namer**](https://github.com/mitio/namer) | A simple app that allows remote brainstorming via anonymous name suggestions and voting | [:arrow_upper_right:](http://namer.herokuapp.com)
 2 | [@mitio](https://github.com/mitio)/[**theses-soa**](https://github.com/mitio/theses-soa) | A simple project, representing SOA, Rails' ActiveResource and a hint of middleware architecture. |
+
 ### Scala #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3 | [@vdichev](https://github.com/vdichev)/[**lightmark**](https://github.com/vdichev/lightmark) | reStructuredText parser in Scala |
 2 | [@stanvp](https://github.com/stanvp)/[**parallelnlp**](https://github.com/stanvp/parallelnlp) |  |
+
 ### Shell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 27 | [@philippetev](https://github.com/philippetev)/[**HP-ProBook-Installer**](https://github.com/philippetev/HP-ProBook-Installer) | The HP ProBook Installer repo |
@@ -424,7 +462,9 @@
 3 | [@SlaSerX](https://github.com/SlaSerX)/[**TorrentFinder**](https://github.com/SlaSerX/TorrentFinder) | TorrentFinder.sh is a "simple" bash script that uses wget, grep, etc. to list the top 5 torrents found on each of the 8 sites based on the search you made. tested and working on archlinux TorrentFinder should work on any other linux distro, i've seen problems when using OSX. I have  tested it in cygwin and it's working just fine |
 2 | [@ivandokov](https://github.com/ivandokov)/[**tools**](https://github.com/ivandokov/tools) | Tools to manage common services for Ubuntu server |
 2 | [@boianmihailov](https://github.com/boianmihailov)/[**iptables-persistent**](https://github.com/boianmihailov/iptables-persistent) | init.d script for debin/ubuntu to keep persistent iptables rules |
+
 ### VimL #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 479 | [@AndrewRadev](https://github.com/AndrewRadev)/[**splitjoin.vim**](https://github.com/AndrewRadev/splitjoin.vim) | A vim plugin that simplifies the transition between multiline and single-line code | [:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3613)
@@ -447,6 +487,7 @@
 2 | [@AndrewRadev](https://github.com/AndrewRadev)/[**subtitles.vim**](https://github.com/AndrewRadev/subtitles.vim) | (Not working) A vim plugin that helps you with editing subtitles |
 2 | [@AndrewRadev](https://github.com/AndrewRadev)/[**rtranslate.vim**](https://github.com/AndrewRadev/rtranslate.vim) | Easier translations with rails |
 2 | [@AndrewRadev](https://github.com/AndrewRadev)/[**archivitor.vim**](https://github.com/AndrewRadev/archivitor.vim) | Vim plugin for editing the contents of archives |
+
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
