@@ -1545,6 +1545,12 @@
           ],
           "rows": [
             [
+              "308",
+              "[@preslavmihaylov](https://github.com/preslavmihaylov)/[**todocheck**](https://github.com/preslavmihaylov/todocheck)",
+              "A static code analyzer for annotated TODO comments",
+              ""
+            ],
+            [
               "6",
               "[@blaskov](https://github.com/blaskov)/[**go-whois**](https://github.com/blaskov/go-whois)",
               "Simple Go module for interaction with WHOIS servers",
