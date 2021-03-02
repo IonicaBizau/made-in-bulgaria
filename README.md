@@ -108,6 +108,7 @@
 85 | [@StanAngeloff](https://github.com/StanAngeloff)/[**lotte**](https://github.com/StanAngeloff/lotte) | Automated, headless browser testing (using PhantomJS). |
 85 | [@mgechev](https://github.com/mgechev)/[**angular2-github-app-…**](https://github.com/mgechev/angular2-github-app-bootstrap) | Exercise for building simple Angular 2 apps |
 81 | [@krasimir](https://github.com/krasimir)/[**react-place**](https://github.com/krasimir/react-place) | React geo location component based on Google Maps | [:arrow_upper_right:](http://krasimir.github.io/react-place)
+78 | [@SQ-UI](https://github.com/SQ-UI)/[**ng-sq-ui**](https://github.com/SQ-UI/ng-sq-ui) | A flexible and easily customizable UI-kit for Angular | [:arrow_upper_right:](https://ng-sq-ui.xyz/#/sq-ui)
 55 | [@mgechev](https://github.com/mgechev)/[**light-angularjs**](https://github.com/mgechev/light-angularjs) | Light AngularJS implementation for my slides "Lightweight AngularJS" | [:arrow_upper_right:](https://speakerdeck.com/mgechev/lightweight-angularjs)
 54 | [@mgechev](https://github.com/mgechev)/[**devtools-vnc**](https://github.com/mgechev/devtools-vnc) | VNC client for Chrome Devtools |
 49 | [@mgechev](https://github.com/mgechev)/[**movement.js**](https://github.com/mgechev/movement.js) | Gesture recognition with JavaScript and HTML5. |
